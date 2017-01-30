@@ -1,0 +1,35 @@
+{
+  "name": "ccs-legacy",
+  "version": "1.0.0",
+  "description": "Legacy website content for http://www.covenantclassicalschool.org",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6 <7",
+    "npm": ">=4 <5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covenantclassicalschool/ccs-legacy.git"
+  },
+  "author": "Matt Cowan <mcowan@covenantclassicalschool.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/covenantclassicalschool/ccs-legacy/issues"
+  },
+  "homepage": "https://github.com/covenantclassicalschool/ccs-legacy#readme",
+  "scripts": {
+    "scrape": "rimraf ./content && node ./scripts/scrape.js && rimraf ./content/__temp"
+  },
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "bluebird": "^3.4.7",
+    "cheerio": "^0.22.0",
+    "fs-extra": "^2.0.0",
+    "isbinaryfile": "^3.0.2",
+    "lodash": "^4.17.4",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "rimraf": "^2.5.4",
+    "urijs": "^1.18.4"
+  }
+}

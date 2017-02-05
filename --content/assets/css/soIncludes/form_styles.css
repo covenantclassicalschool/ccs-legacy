@@ -1,0 +1,335 @@
+/* BEGIN TABLE STYLES */
+
+.tableHeaderBackground {
+	background-color: #9EAB2C;
+	padding: 3px;
+	height: 15px;
+	border: 1px solid #9EAB2C;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	letter-spacing: -1px;
+	text-align: center;
+	vertical-align: top;
+	background-image: url(../images/css/greenBackground.gif);
+	background-position: top;
+	text-decoration: none;
+}
+
+.tableBackground {
+	padding: 3px;
+	height: 10px;
+	border: 1px solid #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	letter-spacing: -1px;
+}
+
+.tableBackgroundColor {
+	background-color: #EAEAEA;
+	padding: 3px;
+	height: 10px;
+	border: 1px solid #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	letter-spacing: -1px;
+}
+
+.hiddenSortColumn {
+	display: none;
+}
+
+
+/* END TABLE STYLES */
+
+/* BEGIN FORM STYLES */
+
+.contentBox {
+	height: 105px;
+	/*width: 700px;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	letter-spacing: -1px;
+	padding: 5px;
+	vertical-align: top;
+	background-image: url(../images/css/lightGreyBackground.gif);
+}
+
+.checkBox {
+	background-image: url(../images/css/checkBoxBackground.gif);
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+}
+
+.radioButton {
+	background-image: url(../images/css/radioButtonBackground.gif);
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+}
+
+.textField50px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 16px;
+	width: 50px;
+	letter-spacing: -1px;
+	background-image: url(../images/css/textFieldBackground.gif);
+	border-top: 1px solid #666666;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #B6B6B6;
+
+}
+
+
+.textField50pxBorder {
+	background-image: url(../images/css/textFieldBorder50.gif);
+	background-repeat: no-repeat;
+	padding-top: 1px;
+	padding-left: 2px;
+}
+
+
+.textField {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 16px;
+	letter-spacing: -1px;
+	background-image: url(../images/css/textFieldBackground.gif);
+	border-top: 1px solid #666666;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #B6B6B6;
+}
+
+
+.textField150px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 16px;
+	width: 150px;
+	letter-spacing: -1px;
+	background-image: url(../images/css/textFieldBackground.gif);
+	border-top: 1px solid #666666;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #B6B6B6;
+}
+
+.textField150pxBorder {
+	background-image: url(../images/css/textFieldBorder.gif);
+	background-repeat: no-repeat;
+	padding-top: 1px;
+	padding-left: 2px;
+}
+
+.textField250px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 16px;
+	width: 250px;
+	letter-spacing: -1px;
+	border: 1px solid #999999;
+	background-image: url(../images/css/textFieldBackground.gif);
+	border-top: 1px solid #666666;
+	border-right: 1px solid #B6B6B6;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #B6B6B6;
+
+}
+
+.textField250pxBorder {
+	background-image: url(../images/css/textFieldBorder250.gif);
+	background-repeat: no-repeat;
+	padding-top: 1px;
+	padding-left: 2px;
+}
+
+.textArea150px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 100px;
+	width: 150px;
+	letter-spacing: -1px;
+	border: 1px solid #999999;
+	background-image: url(../images/css/textFieldBackground.gif);
+	padding: 4px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+
+.textArea200px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 100px;
+	width: 200px;
+	letter-spacing: -1px;
+	border: 1px solid #999999;
+	background-image: url(../images/css/textFieldBackground.gif);
+	padding: 4px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+
+.textArea360px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 100px;
+	width: 360px;
+	letter-spacing: -1px;
+	border: 1px solid #999999;
+	padding: 4px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+
+/*this is a temporary style until eWebEditPro is installed*/
+.textArea700px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	height: 350px;
+	width: 700px;
+	letter-spacing: -1px;
+	border: 1px solid #999999;
+
+}
+
+.dropDown {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #733016;
+	letter-spacing: -1px;
+	height: 15px;
+	border: 1px solid #999999;
+}
+
+
+.dropDown55px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #733016;
+	letter-spacing: -1px;
+	height: 15px;
+	width: 55px;
+	border: 1px solid #999999;
+}
+
+.dropDown60px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #733016;
+	letter-spacing: -1px;
+	height: 15px;
+	width: 60px;
+	border: 1px solid #999999;
+}
+
+dropDown85px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #733016;
+	letter-spacing: -1px;
+	height: 15px;
+	width: 85px;
+	border: 1px solid #999999;
+}
+.dropDown150px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #733016;
+	letter-spacing: -1px;
+	height: 15px;
+	width: 150px;
+	border: 1px solid #999999;
+}
+
+.dropDown250px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #733016;
+	letter-spacing: -1px;
+	height: 15px;
+	width: 250px;
+	border: 1px solid #999999;
+}
+
+.formButton {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #441D0C;
+	background-image: url(../images/css/form_button.gif);
+	height: 27px;
+	width: 102px;
+	letter-spacing: -1px;
+	background-repeat: no-repeat;
+	border: 0px solid;
+	background-position: 0px 2px;
+	background-color: #FFFFFF;
+}
+
+.formButtonLong {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	background-color: #FFFFFF;
+	background-image: url(../images/css/buttonSkin.jpg);
+	border: 0px solid #B0B0B0;
+	height: 25px;
+	letter-spacing: -1px;
+	
+}
+
+.formButtonRed {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	background-image: url(../images/css/buttonSkinRed.jpg);
+	border: 1px solid #39170B;
+	height: 25px;
+	width: 85px;
+	padding: 3px;
+	margin: 2px;
+	letter-spacing: -1px;
+}
+
+.formButtonRedLong {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	background-image: url(../images/css/buttonSkinRed.jpg);
+	border: 1px solid #39170B;
+	height: 25px;
+	padding: 3px;
+	margin: 2px;
+	letter-spacing: -1px;
+}
+
+.required
+{
+    BACKGROUND-IMAGE: url(../soImages/css/required.gif);
+    WIDTH: 20px;
+    BACKGROUND-REPEAT: no-repeat;
+    HEIGHT: 15px
+}
+
+/* END FORM STYLES */

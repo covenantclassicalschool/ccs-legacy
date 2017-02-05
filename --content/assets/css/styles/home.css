@@ -1,0 +1,539 @@
+/* Home CSS Document */
+
+/*#features{
+  float: left;
+  width: 920px;
+  clear: both;
+  margin: 1px 0px 0px;
+}*/
+
+
+/* UNIVERSAL LIST STYLES FOR FEATURES */
+
+#features {
+	display:block;
+	height: 342px;
+	margin: 1px 0 0;
+	padding: 0;
+	width: 920px;
+}
+
+#features ul.main {
+	display: block;
+	height: 320px;
+	list-style: none;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	padding: 0 0 1px;
+	border-bottom: 2px solid #3f3f3f;
+}
+
+
+#features ul.main {
+	display: none;
+}
+
+#features.express8 ul.main {
+	display: block;
+}
+
+
+#features li {
+	float: left;
+	position: relative;
+}
+
+#features ul.main li {
+	z-index: -1;
+}
+
+#features ul.main li.shown {
+	z-index: 3000;
+}
+
+
+#features li div {
+	background: #fff;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	width: 339px;
+	height: auto;
+	display: none;
+	color: #000;
+	padding: 5px 12px 8px;
+	margin: -20px 0 0;
+	box-shadow: 0 0 8px 1px #555;
+    -moz-box-shadow: 0 0 8px 1px #555;
+    -webkit-box-shadow: 0 0 8px 1px #555;
+    behavior: url(../styles/PIE.htc);
+	-pie-watch-ancestors: 1;
+}
+
+#features li h2 {
+	color: #000;
+	padding: 0;
+	margin: 0;
+	font-size: 36px;
+	font-family: "Times New Roman", Times, serif;
+	line-height: 37px;
+	font-weight: normal;
+}
+
+/* MAIN FEATURES AREA AND INDIVIDUAL FEATURES */
+#features .main,
+#features .feature {
+	display:block;
+	height:320px;
+	margin: 0;
+	overflow:hidden;
+	padding: 0;
+	position:absolute;
+	width: 920px;
+}
+
+
+.feature img {
+	position:absolute;
+	width: 920px;
+    height: 320px;
+}
+
+.features a.full {
+	width: 920px;
+	height: 320px;
+}
+
+
+
+/* THUMBS CONTROLS */
+#features .thumbs {
+	margin: 327px 0 0;
+	float: right;
+	padding: 0;
+}
+
+#features .thumbs li {
+	margin: 0 2px 0 0;
+	width: 30px;
+	height: 15px;
+	background: #3f3f3f;
+	list-style-type: none;
+}
+
+#features .thumbs a {
+	display: block;
+	width: 30px;
+	height: 15px;
+}
+
+
+
+/* PREVIOUS NEXT CONTROLS */
+.pnControl {
+	display: block;
+	margin: 165px 0 0;
+	position: absolute;
+	width: 1064px;
+    left: -32px;
+}
+
+.pnControl a {
+	display: block;
+	float: left;
+    text-indent: -9999px;
+    overflow: hidden;
+	height: 95px;
+	width: 54px;
+	z-index: 99999;
+	position: relative;
+	cursor: pointer;
+}
+
+.pnControl a.next {
+	float: right;
+    background: url(../images/css/next.png) no-repeat scroll top right;
+}
+
+.pnControl a.prev {
+    background: url(../images/css/prev.png) no-repeat scroll top left;
+}
+
+/* PAUSE PLAY CONTROLS */
+.pbControl {
+	color: #000;
+	position: absolute;
+	z-index: 101;
+    display: none;
+}
+
+
+
+/* UNIVERSAL LIST STYLES FOR FEATURES */
+
+#marquee {
+	display:block;
+	height: 250px;
+	margin: 1px 0 0;
+	padding: 0;
+	width: 625px;
+}
+
+#marquee ul.main {
+	display: block;
+	height: 250px;
+	list-style: none;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	padding: 0 0 1px;
+}
+
+
+#marquee ul.main {
+	display: none;
+}
+
+#marquee.express8 ul.main {
+	display: block;
+}
+
+
+#marquee li {
+	float: left;
+	position: relative;
+}
+
+#marquee ul.main li {
+	z-index: -1;
+}
+
+#marquee ul.main li.shown {
+	z-index: 3000;
+}
+
+/* MAIN FEATURES AREA AND INDIVIDUAL FEATURES */
+#marquee .main,
+#marquee .feature {
+	display:block;
+	height:250px;
+	margin: 0;
+	overflow:hidden;
+	padding: 0;
+	position:absolute;
+	width: 625px;
+}
+
+
+#marquee .feature img {
+	position:absolute;
+    width: auto;
+    height: auto;
+}
+
+#marquee.features a.full {
+	width: 625px;
+	height: 250px;
+}
+
+
+
+
+
+
+#middle{
+  float: left;
+  width: 920px;
+  clear: both;
+  border-top: 3px solid #E9E9E9;
+  border-bottom: 3px solid #E9E9E9;
+  padding: 1px 0px 4px;
+  margin: 4px 0px 0px;
+}
+
+#spotlight_container{
+  float: left;
+  width: 286px;
+  padding: 10px;
+  background: #F4F4F4;
+}
+
+#spotlight_container h2{
+  font: bold 24px "Times New Roman", Times, serif;
+  color: #666666;
+  border-bottom: 1px solid #CCCCCC;
+  padding: 0px 0px 5px;
+}
+
+#spotlight{
+  float: left;
+  width: 286px;
+  margin: 5px 0px 0px;
+}
+
+#spotlight .image{
+  float: left;
+  width: 280px;
+  height: 120px;
+  padding: 2px;
+  overflow: hidden;
+  background: white;
+  border: 1px solid #CCCCCC;
+}
+
+#spotlight .scroll{
+  float: left;
+  width: 286px;
+  height: 73px;
+  overflow: auto;
+  margin: 15px 0px 0px;
+}
+
+#spotlight .scroll .name{
+  float: left;
+  width: 266px;
+  font: bold 15px "Times New Roman", Times, serif;
+  color: #666666;
+}
+
+#spotlight .intro{
+  float: left;
+  width: 266px;
+  margin: 3px 0px 0px;
+  line-height: 16px;
+}
+
+#spotlight .link{
+  width: 282px;
+  margin: 16px 0px 0px;
+  padding: 2px;
+  text-align: right;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+#spotlight .link a{
+  font: bold 16px "Times New Roman", Times, serif;
+  color: #666666;
+}
+
+#recent_programs_container{
+  float: left;
+  width: 286px;
+  padding: 10px;
+  background: #F4F4F4;
+}
+
+#recent_programs_container h2{
+  font: bold 24px "Times New Roman", Times, serif;
+  color: #666666;
+  border-bottom: 1px solid #CCCCCC;
+  padding: 0px 0px 5px;
+}
+
+#recent_programs{
+  float: left;
+  width: 286px;
+  margin: 5px 0px 0px;
+}
+
+#recent_programs .program{
+  float: left;
+  width: 286px;
+}
+
+#recent_programs .program .image{
+  float: left;
+  width: 70px;
+  height: 50px;
+  padding: 1px;
+  background: white;
+  border: 1px solid #CCCCCC;
+}
+
+#recent_programs .program .scroll{
+  float: right;
+  width: 200px;
+  height: 75px;
+  padding: 0px 3px;
+  overflow: auto;
+}
+
+#recent_programs .program .scroll .title{
+  float: left;
+  width: 180px;
+  color: #666666;
+  font: bold 15px "Times New Roman", Times, serif;
+}
+
+#recent_programs .program .scroll .date{
+  float: left;
+  width: 180px;
+  color: #949494;
+  font: 11px "Times New Roman", Times, serif;
+}
+
+#recent_programs .program .scroll .intro{
+  width: 180px;
+  line-height: 16px;
+}
+
+#recent_programs .program .links{
+  float: right;
+  width: 206px;
+  border-bottom: 1px solid #CCCCCC;
+  margin: 15px 0px 0px;
+}
+
+#recent_programs .program .links ul{
+  float: left;
+  padding: 0px 0px 0px 1px;
+  margin: 0px;
+}
+
+#recent_programs .program .links ul li{
+  float: left;
+  padding: 3px 4px;
+  margin: 0px;
+  list-style: none;
+  font: bold 13px "Times New Roman", Times, serif;
+}
+
+#recent_programs .program .links ul li.download{
+  padding: 3px 13px;
+}
+
+#recent_programs .program .links ul li a{
+  float: left;
+  padding: 0px;
+  margin: 0px;
+  color: #666666;
+}
+
+#middle #blogs_container{
+  float: left;
+  width: 286px;
+  padding: 10px;
+  background: #F4F4F4;
+  margin: 0px;
+  border: 0px;
+}
+
+#middle #blogs{
+  width: 286px;
+}
+
+#middle #blogs .scroll{
+  float: left;
+  width: 286px;
+  height: 214px;
+  overflow: auto;
+}
+
+#middle #blogs .scroll .headline,
+#middle #blogs .scroll .headline .title,
+#middle #blogs .scroll .headline .date,
+#middle #blogs .scroll .headline .intro{
+  width: 266px;
+}
+
+#middle #blogs .link{
+  width: 282px;
+  margin: 16px 0px 0px;
+  padding: 2px;
+}
+
+#events_container{
+  float: left;
+  width: 900px;
+  clear: both;
+  padding: 10px;
+  margin: 1px 0px 0px;
+  background: #F4F4F4;
+}
+
+#events_container .name{
+  float: left;
+  width: 780px;
+}
+
+#events_container .name h2{
+  font: bold 24px "Times New Roman", Times, serif;
+  color: #666666;
+  border-bottom: 1px solid #CCCCCC;
+  padding: 0px 0px 5px;
+}
+
+#events_container .link{
+  float: left;
+  width: 116px;
+  text-align: right;
+  border-bottom: 1px solid #CCCCCC;
+  padding: 8px 2px;
+}
+
+#events_container .link a{
+  font: bold 12px "Times New Roman", Times, serif;
+  color: #666666;
+}
+
+#coming_events{
+  float: left;
+  width: 900px;
+  padding: 0px;
+  margin: 2px 0px 0px;
+}
+
+#coming_events #events{
+  float: left;
+  width: 900px;
+  clear: both;
+}
+
+#coming_events #events .event{
+  float: left;
+  width: 176px;
+  margin: 0px 0px 0px 5px;
+  padding: 1px 0px 10px;
+  display: inline;
+  border-top: 4px solid #666666;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+#coming_events #events .event .name{
+  float: left;
+  width: 176px;
+  margin: 3px 0px 0px;
+  font: bold 13px "Times New Roman", Times, serif;
+}
+
+#coming_events #events .event .name a{
+  color: #666666;
+}
+
+#coming_events #events .event .date{
+  width: 176px;
+  color: #949494;
+  font: 10px "Times New Roman", Times, serif;
+  margin: 2px 0px 0px;
+}
+
+#coming_events #events .event .intro{
+  width: 176px;
+}
+
+#welcome{
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin: 15px;
+  font-size: 15px;
+  line-height: 1.5em;
+}
+
+#marquee{
+	width: 620px;
+	height: 250px;
+	float: left;
+	margin: 10px 0 0 15px;
+}

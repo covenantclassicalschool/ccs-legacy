@@ -18,18 +18,23 @@
   },
   "homepage": "https://github.com/covenantclassicalschool/ccs-legacy#readme",
   "scripts": {
-    "scrape": "rimraf ./content && node ./scripts/scrape.js && rimraf ./content/__temp"
+    "clean": "rimraf ./content",
+    "scrape": "node ./scripts/scrape.js"
   },
   "dependencies": {
     "asyncawait": "^1.0.6",
     "bluebird": "^3.4.7",
     "cheerio": "^0.22.0",
+    "cross-env": "^3.1.4",
     "fs-extra": "^2.0.0",
     "isbinaryfile": "^3.0.2",
+    "js-beautify": "^1.6.8",
     "lodash": "^4.17.4",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
     "rimraf": "^2.5.4",
-    "urijs": "^1.18.4"
+    "to-markdown": "^3.0.3",
+    "urijs": "^1.18.4",
+    "website-scraper": "^2.1.0"
   }
 }

@@ -1,0 +1,2684 @@
+{
+  "site": "http://www.covenantclassicalschool.org",
+  "root": {
+    "slug": "naperville-private-christian-school",
+    "title": "Naperville Private Christian School",
+    "url": "http://www.covenantclassicalschool.org",
+    "href": "pages/naperville-private-christian-school/",
+    "depth": 0
+  },
+  "pages": [
+    {
+      "slug": "naperville-private-christian-school",
+      "title": "Naperville Private Christian School",
+      "url": "http://www.covenantclassicalschool.org",
+      "href": "pages/naperville-private-christian-school/",
+      "depth": 0
+    },
+    {
+      "title": "",
+      "url": "https://www.facebook.com/CovenantClassicalSchool"
+    },
+    {
+      "title": "",
+      "url": "https://www.youtube.com/c/CovenantClassicalSchoolNaperville/"
+    },
+    {
+      "title": "",
+      "url": "https://plus.google.com/+CovenantClassicalSchoolNaperville/"
+    },
+    {
+      "slug": "about-covenant",
+      "title": "About Covenant",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99475",
+      "href": "pages/about-covenant/",
+      "depth": 1
+    },
+    {
+      "slug": "welcome",
+      "title": "Welcome",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97826",
+      "href": "pages/welcome/",
+      "depth": 2
+    },
+    {
+      "slug": "covenant-mission",
+      "title": "Covenant Mission",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97812",
+      "href": "pages/covenant-mission/",
+      "depth": 3
+    },
+    {
+      "slug": "statement-of-faith",
+      "title": "Statement of Faith",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97813",
+      "href": "pages/statement-of-faith/",
+      "depth": 4
+    },
+    {
+      "slug": "understanding-classical-education",
+      "title": "Understanding Classical Education",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97814",
+      "href": "pages/understanding-classical-education/",
+      "depth": 5
+    },
+    {
+      "slug": "board-of-trustees",
+      "title": "Board of Trustees",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98009",
+      "href": "pages/board-of-trustees/",
+      "depth": 6
+    },
+    {
+      "slug": "advisory-board",
+      "title": "Advisory Board",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=120618",
+      "href": "pages/advisory-board/",
+      "depth": 7
+    },
+    {
+      "slug": "administration",
+      "title": "Administration",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97817",
+      "href": "pages/administration/",
+      "depth": 8
+    },
+    {
+      "slug": "faculty",
+      "title": "Faculty",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=127428 ",
+      "href": "pages/faculty/",
+      "depth": 9
+    },
+    {
+      "slug": "why-teach-at-covenant",
+      "title": "Why Teach at Covenant",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=336531",
+      "href": "pages/why-teach-at-covenant/",
+      "depth": 10
+    },
+    {
+      "slug": "directions",
+      "title": "Directions",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99382",
+      "href": "pages/directions/",
+      "depth": 11
+    },
+    {
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97821",
+      "href": "pages/contact-us/",
+      "depth": 12
+    },
+    {
+      "slug": "naperville-school-curriculum",
+      "title": "Naperville School Curriculum",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97822",
+      "href": "pages/naperville-school-curriculum/",
+      "depth": 13
+    },
+    {
+      "slug": "academic-achievements",
+      "title": "Academic Achievements",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=151308",
+      "href": "pages/academic-achievements/",
+      "depth": 14
+    },
+    {
+      "slug": "naperville-private-kindergarten",
+      "title": "Naperville Private Kindergarten",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=100701",
+      "href": "pages/naperville-private-kindergarten/",
+      "depth": 15
+    },
+    {
+      "slug": "naperville-private-elementary-school",
+      "title": "Naperville Private Elementary School",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98010",
+      "href": "pages/naperville-private-elementary-school/",
+      "depth": 16
+    },
+    {
+      "slug": "naperville-private-middle-school",
+      "title": "Naperville Private Middle School",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98133",
+      "href": "pages/naperville-private-middle-school/",
+      "depth": 17
+    },
+    {
+      "slug": "rhetoric-school",
+      "title": "Rhetoric School",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98136",
+      "href": "pages/rhetoric-school/",
+      "depth": 18
+    },
+    {
+      "slug": "about-covenant",
+      "title": "About Covenant",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99475",
+      "href": "pages/about-covenant_1/",
+      "depth": 19
+    },
+    {
+      "slug": "welcome",
+      "title": "Welcome",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97826",
+      "href": "pages/welcome_1/",
+      "depth": 20
+    },
+    {
+      "slug": "covenant-mission",
+      "title": "Covenant Mission",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97812",
+      "href": "pages/covenant-mission_1/",
+      "depth": 21
+    },
+    {
+      "slug": "statement-of-faith",
+      "title": "Statement of Faith",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97813",
+      "href": "pages/statement-of-faith_1/",
+      "depth": 22
+    },
+    {
+      "slug": "understanding-classical-education",
+      "title": "Understanding Classical Education",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97814",
+      "href": "pages/understanding-classical-education_1/",
+      "depth": 23
+    },
+    {
+      "slug": "board-of-trustees",
+      "title": "Board of Trustees",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98009",
+      "href": "pages/board-of-trustees_1/",
+      "depth": 24
+    },
+    {
+      "slug": "advisory-board",
+      "title": "Advisory Board",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=120618",
+      "href": "pages/advisory-board_1/",
+      "depth": 25
+    },
+    {
+      "slug": "administration",
+      "title": "Administration",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97817",
+      "href": "pages/administration_1/",
+      "depth": 26
+    },
+    {
+      "slug": "faculty",
+      "title": "Faculty",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=127428 ",
+      "href": "pages/faculty_1/",
+      "depth": 27
+    },
+    {
+      "slug": "directions",
+      "title": "Directions",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99382",
+      "href": "pages/directions_1/",
+      "depth": 28
+    },
+    {
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97821",
+      "href": "pages/contact-us_1/",
+      "depth": 29
+    },
+    {
+      "slug": "naperville-school-curriculum",
+      "title": "Naperville School Curriculum",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97822",
+      "href": "pages/naperville-school-curriculum_1/",
+      "depth": 30
+    },
+    {
+      "slug": "academic-achievements",
+      "title": "Academic Achievements",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=151308",
+      "href": "pages/academic-achievements_1/",
+      "depth": 31
+    },
+    {
+      "slug": "naperville-private-kindergarten",
+      "title": "Naperville Private Kindergarten",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=100701",
+      "href": "pages/naperville-private-kindergarten_1/",
+      "depth": 32
+    },
+    {
+      "slug": "naperville-private-elementary-school",
+      "title": "Naperville Private Elementary School",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98010",
+      "href": "pages/naperville-private-elementary-school_1/",
+      "depth": 33
+    },
+    {
+      "slug": "naperville-private-middle-school",
+      "title": "Naperville Private Middle School",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98133",
+      "href": "pages/naperville-private-middle-school_1/",
+      "depth": 34
+    },
+    {
+      "slug": "college-advising",
+      "title": "College Advising",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98140",
+      "href": "pages/college-advising/",
+      "depth": 35
+    },
+    {
+      "slug": "classical-education-resources",
+      "title": "Classical Education Resources",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=101624",
+      "href": "pages/classical-education-resources/",
+      "depth": 36
+    },
+    {
+      "slug": "covenant-news",
+      "title": "Covenant News",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=122497",
+      "href": "pages/covenant-news/",
+      "depth": 37
+    },
+    {
+      "slug": "upcoming-events-covenant-life",
+      "title": "Upcoming Events (Covenant Life)",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=174604",
+      "href": "pages/upcoming-events-covenant-life/",
+      "depth": 38
+    },
+    {
+      "slug": "extracurricular-activities",
+      "title": "Extracurricular Activities",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97834",
+      "href": "pages/extracurricular-activities/",
+      "depth": 39
+    },
+    {
+      "slug": "service-opportunities",
+      "title": "Service Opportunities",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=151014",
+      "href": "pages/service-opportunities/",
+      "depth": 40
+    },
+    {
+      "slug": "school-calendar",
+      "title": "School Calendar",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=360805",
+      "href": "pages/school-calendar/",
+      "depth": 41
+    },
+    {
+      "slug": "student-schedule",
+      "title": "Student Schedule",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=101320",
+      "href": "pages/student-schedule/",
+      "depth": 42
+    },
+    {
+      "slug": "parental-involvement",
+      "title": "Parental Involvement",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97832",
+      "href": "pages/parental-involvement/",
+      "depth": 43
+    },
+    {
+      "slug": "parent-volunteer-opportunities-covenant-life",
+      "title": "Parent Volunteer Opportunities (Covenant Life)",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=124783",
+      "href": "pages/parent-volunteer-opportunities-covenant-life/",
+      "depth": 44
+    },
+    {
+      "slug": "uniform-policy",
+      "title": "Uniform Policy",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97833",
+      "href": "pages/uniform-policy/",
+      "depth": 45
+    },
+    {
+      "slug": "student-supply-list",
+      "title": "Student Supply List",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=111492",
+      "href": "pages/student-supply-list/",
+      "depth": 46
+    },
+    {
+      "slug": "forms",
+      "title": "Forms",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=116752",
+      "href": "pages/forms/",
+      "depth": 47
+    },
+    {
+      "slug": "school-store",
+      "title": "School Store",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=130062",
+      "href": "pages/school-store/",
+      "depth": 48
+    },
+    {
+      "slug": "enrollment",
+      "title": "Enrollment",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97827",
+      "href": "pages/enrollment/",
+      "depth": 49
+    },
+    {
+      "slug": "classical-christian-education",
+      "title": "Classical Christian Education",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97838",
+      "href": "pages/classical-christian-education/",
+      "depth": 50
+    },
+    {
+      "title": "Application Process",
+      "url": "https://cov-il.client.renweb.com/oa/?memberid=2291"
+    },
+    {
+      "title": "Login to ParentsWeb",
+      "url": "https://cov-il.client.renweb.com/pw/"
+    },
+    {
+      "title": "FACTS Account",
+      "url": "https://online.factsmgt.com/Tmg/public/AgreementSignup.aspx?t=3H0T9&siv=y"
+    },
+    {
+      "title": "FACTS Acc",
+      "url": "https://online.factsmgt.com"
+    },
+    {
+      "title": "Church Website Design by Site Organic",
+      "url": "http://www.siteorganic.com/"
+    },
+    {
+      "slug": "classical-education",
+      "title": "Classical Education",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98887",
+      "href": "pages/classical-education/",
+      "depth": 50
+    },
+    {
+      "title": "student performance",
+      "url": "http://www.accsedu.org/Statistics_at_a_Glance.ihtml?id=291192"
+    },
+    {
+      "title": "Defending the Faith",
+      "url": "http://www.accsedu.org/files/Audio%20Files/Colson%20faith.mp3"
+    },
+    {
+      "slug": "tuition",
+      "title": "Tuition",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97828",
+      "href": "pages/tuition/",
+      "depth": 50
+    },
+    {
+      "slug": "financial-aid",
+      "title": "Financial Aid",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97829",
+      "href": "pages/financial-aid/",
+      "depth": 50
+    },
+    {
+      "title": "Student Application",
+      "url": "https://cov-il.client.renweb.com/oa/index.cfm?memberid=2291"
+    },
+    {
+      "title": "FACTS website",
+      "url": "https://online.factsmgt.com/aid"
+    },
+    {
+      "slug": "common-questions",
+      "title": "Common Questions",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99049",
+      "href": "pages/common-questions/",
+      "depth": 50
+    },
+    {
+      "slug": "visit-covenant",
+      "title": "Visit Covenant",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=97830",
+      "href": "pages/visit-covenant/",
+      "depth": 50
+    },
+    {
+      "title": "1852 95th Street",
+      "url": "http://maps.google.com/maps?saddr=1852+95th+St,+Naperville,+IL&hl=en&sll=37.063944,-95.674438&sspn=2.875344,6.696167&mra=ls&t=m&z=16"
+    },
+    {
+      "slug": "heart-songs",
+      "title": "Heart Songs",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=422701",
+      "href": "pages/heart-songs/",
+      "depth": 50
+    },
+    {
+      "slug": "seen-known-loved",
+      "title": "Seen, Known, Loved",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=414200",
+      "href": "pages/seen-known-loved/",
+      "depth": 50
+    },
+    {
+      "slug": "transforming-the-morning",
+      "title": "Transforming the Morning",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=414178",
+      "href": "pages/transforming-the-morning/",
+      "depth": 50
+    },
+    {
+      "slug": "the-soul-of-education",
+      "title": "The Soul of Education",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=409922",
+      "href": "pages/the-soul-of-education/",
+      "depth": 50
+    },
+    {
+      "slug": "experiencing-music",
+      "title": "Experiencing Music",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=413793",
+      "href": "pages/experiencing-music/",
+      "depth": 50
+    },
+    {
+      "slug": "all-we-ever-wanted",
+      "title": "All We Ever Wanted",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=406335",
+      "href": "pages/all-we-ever-wanted/",
+      "depth": 50
+    },
+    {
+      "slug": "a-profoundly-human-pursuit",
+      "title": "A Profoundly Human Pursuit",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=408272",
+      "href": "pages/a-profoundly-human-pursuit/",
+      "depth": 50
+    },
+    {
+      "slug": "sparking-the-fire",
+      "title": "Sparking the Fire",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=349553",
+      "href": "pages/sparking-the-fire/",
+      "depth": 50
+    },
+    {
+      "slug": "fostering-mathematical-wonder",
+      "title": "Fostering Mathematical Wonder",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=355256",
+      "href": "pages/fostering-mathematical-wonder/",
+      "depth": 50
+    },
+    {
+      "slug": "becoming-galileo",
+      "title": "Becoming Galileo",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=357129",
+      "href": "pages/becoming-galileo/",
+      "depth": 50
+    },
+    {
+      "slug": "transformational-analysis",
+      "title": "Transformational Analysis",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=398064",
+      "href": "pages/transformational-analysis/",
+      "depth": 50
+    },
+    {
+      "slug": "why-support-covenant",
+      "title": "Why Support Covenant?",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99271",
+      "href": "pages/why-support-covenant/",
+      "depth": 50
+    },
+    {
+      "slug": "ways-to-give",
+      "title": "Ways to Give",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99273",
+      "href": "pages/ways-to-give/",
+      "depth": 50
+    },
+    {
+      "title": "use our secure online form",
+      "url": "http://secure.siteorganic.com/dl/?uid=cove1852227"
+    },
+    {
+      "title": "AmazonSmile for Covenant.",
+      "url": "https://smile.amazon.com/ch/27-1802630."
+    },
+    {
+      "slug": "the-covenant-annual-fund-support-covenant",
+      "title": "The Covenant Annual Fund (Support  Covenant)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99274",
+      "href": "pages/the-covenant-annual-fund-support-covenant/",
+      "depth": 50
+    },
+    {
+      "slug": "trivia-night-and-silent-auction-fundraiser-support-covenant",
+      "title": "Trivia Night and Silent Auction Fundraiser (Support  Covenant)",
+      "url": "http://covenantclassicalschool.org/trivianight",
+      "href": "pages/trivia-night-and-silent-auction-fundraiser-support-covenant/",
+      "depth": 50
+    },
+    {
+      "title": "An Introduction to Classical Education",
+      "url": "http://classicalsubjects.com/resources/ICE.pdf"
+    },
+    {
+      "title": "POLOS & EMBROIDERED SPIRITWEAR",
+      "url": "http://www.landsend.com/ix/UserSearch=uniforms/index.html?seq=1&visible=1&store=le&sort=Recommended&pageSize=72"
+    },
+    {
+      "title": "PE SHIRTS, SPIRITWEAR & GIFT ITEMS",
+      "url": "http://www.cafepress.com/covenantclassical"
+    },
+    {
+      "title": "LAPTOP LUNCHES",
+      "url": "https://secure.laptoplunches.com/AMAZING/index.asp?url=IND"
+    },
+    {
+      "slug": "upcoming-events-covenant-life",
+      "title": "Upcoming Events (Covenant Life)",
+      "url": "http://covenantclassicalschool.org/upcoming-events",
+      "href": "pages/upcoming-events-covenant-life_1/",
+      "depth": 49
+    },
+    {
+      "slug": "student-schedule",
+      "title": "Student Schedule",
+      "url": "http://covenantclassicalschool.org/studentschedule",
+      "href": "pages/student-schedule_1/",
+      "depth": 50
+    },
+    {
+      "title": "Physical Examination Form",
+      "url": "http://66.132.139.241/uploads/PhysicalExamForm.pdf"
+    },
+    {
+      "title": "Dental Examination Form",
+      "url": "http://66.132.139.241/uploads/DentalExamForm.pdf"
+    },
+    {
+      "title": "Vision Examination Form",
+      "url": "http://66.132.139.241/uploads/EyeExamReport.pdf"
+    },
+    {
+      "title": "",
+      "url": "http://www.landsend.com/ix/school-uniforms/index.html?tab=13&seq=1&page=1&pageSize=12&store=le&schoolStoreNum=900137639&omniSchool=900137639"
+    },
+    {
+      "title": "Schoolbelles.com",
+      "url": "http://www.schoolbelles.com"
+    },
+    {
+      "title": "Teachers Take One to Reward Students",
+      "url": "http://napervillesun.suntimes.com/news/pulse/9157113-418/pulse-balloons-pies-pools-books-and-bulls.html"
+    },
+    {
+      "title": "A Covenant with the Earth",
+      "url": "http://www.christianitytoday.com/ct/2010/october/17.27.html"
+    },
+    {
+      "title": "Faith in the Future / Faith and Education Combine at Covenant",
+      "url": "http://napervillesun.suntimes.com/news/1651793-418/quot-covenant-students-classical-education.html"
+    },
+    {
+      "title": "Ribbon Cutting Cermony with Mayor Pradel",
+      "url": "http://triblocal.com/naperville/community/stories/2010/08/ribbon-cutting-ceremony-with-mayor-pradel-officially-starts-covenant-classical-school/"
+    },
+    {
+      "title": "New School Opens in Naperville",
+      "url": "http://saxo.dailyherald.com/article/20100826/News/308269919/"
+    },
+    {
+      "title": "Association of Classical and Christian Schools (ACCS)",
+      "url": "http://www.accsedu.org/"
+    },
+    {
+      "title": "Society for Classical Learning (SCL)",
+      "url": "http://www.societyforclassicallearning.org/"
+    },
+    {
+      "title": "Read Complete Article",
+      "url": "http://66.132.139.241/uploads/WhyChristianEdMustBeClassical.pdf"
+    },
+    {
+      "title": "\"Intelligence Plus Character\"",
+      "url": "http://66.132.139.241/uploads/IntelligencePlusCharacter.pdf"
+    },
+    {
+      "title": "\"The Lost Tools of Learning\"",
+      "url": "http://www.gbt.org/text/sayers.html"
+    },
+    {
+      "title": "\"The Abolition of Man",
+      "url": "http://www.columbia.edu/cu/augustine/arch/lewis/abolition1.htm"
+    },
+    {
+      "title": "\"The Why of Classical Education\"",
+      "url": "http://www.memoriapress.com/articles/why-classical.html"
+    },
+    {
+      "title": "\"An Apology for Latin and Math",
+      "url": "http://www.memoriapress.com/articles/apology-latin-math.html"
+    },
+    {
+      "title": "\"Thinking Logically About Logic\"",
+      "url": "http://www.memoriapress.com/articles/logic.html"
+    },
+    {
+      "title": "\"What is Classical Rhetoric\"",
+      "url": "http://www.memoriapress.com/articles/whatrhetoric.html"
+    },
+    {
+      "title": "Classical resources website",
+      "url": "http://www.gbt.org/res.html"
+    },
+    {
+      "title": "\"How To Turn Good Readers into Good Writers Too\"",
+      "url": "http://www.memoriapress.com/articles/One-Myth.html"
+    },
+    {
+      "title": "\"Knowing History and Knowing Who We Are\"",
+      "url": "http://www.realclearpolitics.com/Commentary/com-4_18_05_DM.html"
+    },
+    {
+      "title": "",
+      "url": "http://www.higherparadigms.com/qe1001.htm"
+    },
+    {
+      "title": "Christian Classics Ethereal Library",
+      "url": "http://www.ccel.org/"
+    },
+    {
+      "title": "\"In Defense of Memorization\"",
+      "url": "http://www.city-journal.org/html/14_3_defense_memorization.html"
+    },
+    {
+      "title": "\"Incarnational Teaching In Kindergarten\"",
+      "url": "http://quidditycirce.wordpress.com/2009/02/07/incarnational-teaching-in-kindergarten/"
+    },
+    {
+      "slug": "bible-classes",
+      "title": "Bible Classes",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104567",
+      "href": "pages/bible-classes/",
+      "depth": 37
+    },
+    {
+      "slug": "naperville-school-curriculum",
+      "title": "Naperville School Curriculum",
+      "url": "http://covenantclassicalschool.org/curriculum",
+      "href": "pages/naperville-school-curriculum_2/",
+      "depth": 38
+    },
+    {
+      "slug": "language-arts-classes",
+      "title": "Language Arts Classes",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104568",
+      "href": "pages/language-arts-classes/",
+      "depth": 39
+    },
+    {
+      "slug": "history-and-geography-classes",
+      "title": "History and Geography Classes",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104569",
+      "href": "pages/history-and-geography-classes/",
+      "depth": 40
+    },
+    {
+      "slug": "mathematics-and-science-classes",
+      "title": "Mathematics and Science Classes",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104570",
+      "href": "pages/mathematics-and-science-classes/",
+      "depth": 41
+    },
+    {
+      "slug": "latin-studies",
+      "title": "Latin Studies",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104721",
+      "href": "pages/latin-studies/",
+      "depth": 42
+    },
+    {
+      "slug": "logic-academics",
+      "title": "Logic (Academics)",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104572",
+      "href": "pages/logic-academics/",
+      "depth": 43
+    },
+    {
+      "slug": "art",
+      "title": "Art",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=151325",
+      "href": "pages/art/",
+      "depth": 44
+    },
+    {
+      "slug": "drama",
+      "title": "Drama",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=151324",
+      "href": "pages/drama/",
+      "depth": 45
+    },
+    {
+      "slug": "music-program",
+      "title": "Music Program",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104573",
+      "href": "pages/music-program/",
+      "depth": 46
+    },
+    {
+      "slug": "physical-education-program",
+      "title": "Physical Education Program",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=104574",
+      "href": "pages/physical-education-program/",
+      "depth": 47
+    },
+    {
+      "slug": "naperville-private-kindergarten",
+      "title": "Naperville Private Kindergarten",
+      "url": "http://covenantclassicalschool.org/kindergarten",
+      "href": "pages/naperville-private-kindergarten_2/",
+      "depth": 48
+    },
+    {
+      "slug": "naperville-private-elementary-school",
+      "title": "Naperville Private Elementary School",
+      "url": "http://covenantclassicalschool.org/grammar",
+      "href": "pages/naperville-private-elementary-school_2/",
+      "depth": 49
+    },
+    {
+      "slug": "grammar-school-curriculum",
+      "title": "Grammar School Curriculum",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98011",
+      "href": "pages/grammar-school-curriculum/",
+      "depth": 50
+    },
+    {
+      "slug": "grammar-school-literature",
+      "title": "Grammar School Literature",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99340",
+      "href": "pages/grammar-school-literature/",
+      "depth": 50
+    },
+    {
+      "slug": "grammar-school-read-alouds",
+      "title": "Grammar School Read Alouds",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=102886",
+      "href": "pages/grammar-school-read-alouds/",
+      "depth": 50
+    },
+    {
+      "slug": "grammar-school-activities",
+      "title": "Grammar School Activities",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98012",
+      "href": "pages/grammar-school-activities/",
+      "depth": 50
+    },
+    {
+      "slug": "naperville-private-middle-school",
+      "title": "Naperville Private Middle School",
+      "url": "http://covenantclassicalschool.org/logic-school",
+      "href": "pages/naperville-private-middle-school_2/",
+      "depth": 50
+    },
+    {
+      "slug": "logic-school-curriculum",
+      "title": "Logic School Curriculum",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98134",
+      "href": "pages/logic-school-curriculum/",
+      "depth": 50
+    },
+    {
+      "slug": "logic-school-literature",
+      "title": "Logic School Literature",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=99341",
+      "href": "pages/logic-school-literature/",
+      "depth": 50
+    },
+    {
+      "slug": "logic-school-activities",
+      "title": "Logic School Activities",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98135",
+      "href": "pages/logic-school-activities/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school-curriculum",
+      "title": "Rhetoric School Curriculum",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=98137",
+      "href": "pages/rhetoric-school-curriculum/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school-literature",
+      "title": "Rhetoric School Literature",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=112638",
+      "href": "pages/rhetoric-school-literature/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school-graduation-requirements-academics",
+      "title": "Rhetoric School Graduation Requirements (Academics)",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=172045",
+      "href": "pages/rhetoric-school-graduation-requirements-academics/",
+      "depth": 50
+    },
+    {
+      "slug": "classical-education-resources",
+      "title": "Classical Education Resources",
+      "url": "http://covenantclassicalschool.org/resources",
+      "href": "pages/classical-education-resources_1/",
+      "depth": 50
+    },
+    {
+      "title": "StudentEdge web site.",
+      "url": "http://www.studentedge.com"
+    },
+    {
+      "title": "FAFSA web site.",
+      "url": "http://fafsa.ed.gov"
+    },
+    {
+      "slug": "welcome",
+      "title": "Welcome",
+      "url": "http://covenantclassicalschool.org/covenantwelcome",
+      "href": "pages/welcome_2/",
+      "depth": 30
+    },
+    {
+      "slug": "about-covenant",
+      "title": "About Covenant",
+      "url": "http://covenantclassicalschool.org/about-covenant",
+      "href": "pages/about-covenant_2/",
+      "depth": 31
+    },
+    {
+      "slug": "administration",
+      "title": "Administration",
+      "url": "http://www.covenantclassicalschool.org/covenant-administration",
+      "href": "pages/administration_2/",
+      "depth": 32
+    },
+    {
+      "slug": "college-advising",
+      "title": "College Advising",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98140",
+      "href": "pages/college-advising_1/",
+      "depth": 33
+    },
+    {
+      "slug": "classical-education-resources",
+      "title": "Classical Education Resources",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=101624",
+      "href": "pages/classical-education-resources_2/",
+      "depth": 34
+    },
+    {
+      "slug": "covenant-news",
+      "title": "Covenant News",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=122497",
+      "href": "pages/covenant-news_1/",
+      "depth": 35
+    },
+    {
+      "slug": "upcoming-events-covenant-life",
+      "title": "Upcoming Events (Covenant Life)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=174604",
+      "href": "pages/upcoming-events-covenant-life_2/",
+      "depth": 36
+    },
+    {
+      "slug": "extracurricular-activities",
+      "title": "Extracurricular Activities",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97834",
+      "href": "pages/extracurricular-activities_1/",
+      "depth": 37
+    },
+    {
+      "slug": "service-opportunities",
+      "title": "Service Opportunities",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=151014",
+      "href": "pages/service-opportunities_1/",
+      "depth": 38
+    },
+    {
+      "slug": "school-calendar",
+      "title": "School Calendar",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=360805",
+      "href": "pages/school-calendar_1/",
+      "depth": 39
+    },
+    {
+      "slug": "student-schedule",
+      "title": "Student Schedule",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=101320",
+      "href": "pages/student-schedule_2/",
+      "depth": 40
+    },
+    {
+      "slug": "parental-involvement",
+      "title": "Parental Involvement",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97832",
+      "href": "pages/parental-involvement_1/",
+      "depth": 41
+    },
+    {
+      "slug": "parent-volunteer-opportunities-covenant-life",
+      "title": "Parent Volunteer Opportunities (Covenant Life)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=124783",
+      "href": "pages/parent-volunteer-opportunities-covenant-life_1/",
+      "depth": 42
+    },
+    {
+      "slug": "uniform-policy",
+      "title": "Uniform Policy",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97833",
+      "href": "pages/uniform-policy_1/",
+      "depth": 43
+    },
+    {
+      "slug": "student-supply-list",
+      "title": "Student Supply List",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=111492",
+      "href": "pages/student-supply-list_1/",
+      "depth": 44
+    },
+    {
+      "slug": "forms",
+      "title": "Forms",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=116752",
+      "href": "pages/forms_1/",
+      "depth": 45
+    },
+    {
+      "slug": "school-store",
+      "title": "School Store",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=130062",
+      "href": "pages/school-store_1/",
+      "depth": 46
+    },
+    {
+      "slug": "enrollment",
+      "title": "Enrollment",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97827",
+      "href": "pages/enrollment_1/",
+      "depth": 47
+    },
+    {
+      "slug": "classical-christian-education",
+      "title": "Classical Christian Education",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97838",
+      "href": "pages/classical-christian-education_1/",
+      "depth": 48
+    },
+    {
+      "slug": "classical-education",
+      "title": "Classical Education",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98887",
+      "href": "pages/classical-education_1/",
+      "depth": 49
+    },
+    {
+      "slug": "tuition",
+      "title": "Tuition",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97828",
+      "href": "pages/tuition_1/",
+      "depth": 50
+    },
+    {
+      "slug": "financial-aid",
+      "title": "Financial Aid",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97829",
+      "href": "pages/financial-aid_1/",
+      "depth": 50
+    },
+    {
+      "slug": "common-questions",
+      "title": "Common Questions",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99049",
+      "href": "pages/common-questions_1/",
+      "depth": 50
+    },
+    {
+      "slug": "visit-covenant",
+      "title": "Visit Covenant",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97830",
+      "href": "pages/visit-covenant_1/",
+      "depth": 50
+    },
+    {
+      "slug": "heart-songs",
+      "title": "Heart Songs",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=422701",
+      "href": "pages/heart-songs_1/",
+      "depth": 50
+    },
+    {
+      "slug": "seen-known-loved",
+      "title": "Seen, Known, Loved",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414200",
+      "href": "pages/seen-known-loved_1/",
+      "depth": 50
+    },
+    {
+      "slug": "transforming-the-morning",
+      "title": "Transforming the Morning",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414178",
+      "href": "pages/transforming-the-morning_1/",
+      "depth": 50
+    },
+    {
+      "slug": "the-soul-of-education",
+      "title": "The Soul of Education",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=409922",
+      "href": "pages/the-soul-of-education_1/",
+      "depth": 50
+    },
+    {
+      "slug": "experiencing-music",
+      "title": "Experiencing Music",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=413793",
+      "href": "pages/experiencing-music_1/",
+      "depth": 50
+    },
+    {
+      "slug": "all-we-ever-wanted",
+      "title": "All We Ever Wanted",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=406335",
+      "href": "pages/all-we-ever-wanted_1/",
+      "depth": 50
+    },
+    {
+      "slug": "a-profoundly-human-pursuit",
+      "title": "A Profoundly Human Pursuit",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=408272",
+      "href": "pages/a-profoundly-human-pursuit_1/",
+      "depth": 50
+    },
+    {
+      "slug": "fostering-mathematical-wonder",
+      "title": "Fostering Mathematical Wonder",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=355256",
+      "href": "pages/fostering-mathematical-wonder_1/",
+      "depth": 50
+    },
+    {
+      "slug": "becoming-galileo",
+      "title": "Becoming Galileo",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=357129",
+      "href": "pages/becoming-galileo_1/",
+      "depth": 50
+    },
+    {
+      "slug": "transformational-analysis",
+      "title": "Transformational Analysis",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=398064",
+      "href": "pages/transformational-analysis_1/",
+      "depth": 50
+    },
+    {
+      "slug": "why-support-covenant",
+      "title": "Why Support Covenant?",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99271",
+      "href": "pages/why-support-covenant_1/",
+      "depth": 50
+    },
+    {
+      "slug": "ways-to-give",
+      "title": "Ways to Give",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99273",
+      "href": "pages/ways-to-give_1/",
+      "depth": 50
+    },
+    {
+      "slug": "trivia-night-and-silent-auction-fundraiser-support-covenant",
+      "title": "Trivia Night and Silent Auction Fundraiser (Support  Covenant)",
+      "url": "http://www.covenantclassicalschool.org/trivianight",
+      "href": "pages/trivia-night-and-silent-auction-fundraiser-support-covenant_1/",
+      "depth": 50
+    },
+    {
+      "slug": "404-covenant-classical-school",
+      "title": "404 (Covenant Classical School)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97867",
+      "href": "pages/404-covenant-classical-school/",
+      "depth": 49
+    },
+    {
+      "slug": "naperville-private-christian-school",
+      "title": "Naperville Private Christian School",
+      "url": "http://www.covenantclassicalschool.org/default.asp",
+      "href": "pages/naperville-private-christian-school_1/",
+      "depth": 50
+    },
+    {
+      "title": "Covenant Classical School Kindergarten",
+      "url": "https://vimeo.com/138645506"
+    },
+    {
+      "title": "Covenant Classical School",
+      "url": "https://vimeo.com/covenantclassical"
+    },
+    {
+      "title": "Vimeo",
+      "url": "https://vimeo.com"
+    },
+    {
+      "slug": "upcoming-events-covenant-life",
+      "title": "Upcoming Events (Covenant Life)",
+      "url": "http://www.covenantclassicalschool.org/upcoming-events",
+      "href": "pages/upcoming-events-covenant-life_3/",
+      "depth": 47
+    },
+    {
+      "slug": "student-schedule",
+      "title": "Student Schedule",
+      "url": "http://www.covenantclassicalschool.org/studentschedule",
+      "href": "pages/student-schedule_3/",
+      "depth": 48
+    },
+    {
+      "slug": "bible-classes",
+      "title": "Bible Classes",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104567",
+      "href": "pages/bible-classes_1/",
+      "depth": 35
+    },
+    {
+      "slug": "naperville-school-curriculum",
+      "title": "Naperville School Curriculum",
+      "url": "http://www.covenantclassicalschool.org/curriculum",
+      "href": "pages/naperville-school-curriculum_3/",
+      "depth": 36
+    },
+    {
+      "slug": "language-arts-classes",
+      "title": "Language Arts Classes",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104568",
+      "href": "pages/language-arts-classes_1/",
+      "depth": 37
+    },
+    {
+      "slug": "history-and-geography-classes",
+      "title": "History and Geography Classes",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104569",
+      "href": "pages/history-and-geography-classes_1/",
+      "depth": 38
+    },
+    {
+      "slug": "mathematics-and-science-classes",
+      "title": "Mathematics and Science Classes",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104570",
+      "href": "pages/mathematics-and-science-classes_1/",
+      "depth": 39
+    },
+    {
+      "slug": "latin-studies",
+      "title": "Latin Studies",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104721",
+      "href": "pages/latin-studies_1/",
+      "depth": 40
+    },
+    {
+      "slug": "logic-academics",
+      "title": "Logic (Academics)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104572",
+      "href": "pages/logic-academics_1/",
+      "depth": 41
+    },
+    {
+      "slug": "art",
+      "title": "Art",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=151325",
+      "href": "pages/art_1/",
+      "depth": 42
+    },
+    {
+      "slug": "drama",
+      "title": "Drama",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=151324",
+      "href": "pages/drama_1/",
+      "depth": 43
+    },
+    {
+      "slug": "music-program",
+      "title": "Music Program",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104573",
+      "href": "pages/music-program_1/",
+      "depth": 44
+    },
+    {
+      "slug": "physical-education-program",
+      "title": "Physical Education Program",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=104574",
+      "href": "pages/physical-education-program_1/",
+      "depth": 45
+    },
+    {
+      "slug": "naperville-private-kindergarten",
+      "title": "Naperville Private Kindergarten",
+      "url": "http://www.covenantclassicalschool.org/kindergarten",
+      "href": "pages/naperville-private-kindergarten_3/",
+      "depth": 46
+    },
+    {
+      "slug": "naperville-private-elementary-school",
+      "title": "Naperville Private Elementary School",
+      "url": "http://www.covenantclassicalschool.org/grammar",
+      "href": "pages/naperville-private-elementary-school_3/",
+      "depth": 47
+    },
+    {
+      "slug": "grammar-school-curriculum",
+      "title": "Grammar School Curriculum",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98011",
+      "href": "pages/grammar-school-curriculum_1/",
+      "depth": 48
+    },
+    {
+      "slug": "grammar-school-read-alouds",
+      "title": "Grammar School Read Alouds",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=102886",
+      "href": "pages/grammar-school-read-alouds_1/",
+      "depth": 49
+    },
+    {
+      "slug": "grammar-school-literature",
+      "title": "Grammar School Literature",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99340",
+      "href": "pages/grammar-school-literature_1/",
+      "depth": 50
+    },
+    {
+      "slug": "grammar-school-activities",
+      "title": "Grammar School Activities",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98012",
+      "href": "pages/grammar-school-activities_1/",
+      "depth": 50
+    },
+    {
+      "slug": "naperville-private-middle-school",
+      "title": "Naperville Private Middle School",
+      "url": "http://www.covenantclassicalschool.org/logic-school",
+      "href": "pages/naperville-private-middle-school_3/",
+      "depth": 50
+    },
+    {
+      "slug": "logic-school-curriculum",
+      "title": "Logic School Curriculum",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98134",
+      "href": "pages/logic-school-curriculum_1/",
+      "depth": 50
+    },
+    {
+      "slug": "logic-school-literature",
+      "title": "Logic School Literature",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99341",
+      "href": "pages/logic-school-literature_1/",
+      "depth": 50
+    },
+    {
+      "slug": "logic-school-activities",
+      "title": "Logic School Activities",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98135",
+      "href": "pages/logic-school-activities_1/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school",
+      "title": "Rhetoric School",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98136",
+      "href": "pages/rhetoric-school_1/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school-curriculum",
+      "title": "Rhetoric School Curriculum",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98137",
+      "href": "pages/rhetoric-school-curriculum_1/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school-literature",
+      "title": "Rhetoric School Literature",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=112638",
+      "href": "pages/rhetoric-school-literature_1/",
+      "depth": 50
+    },
+    {
+      "slug": "rhetoric-school-graduation-requirements-academics",
+      "title": "Rhetoric School Graduation Requirements (Academics)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=172045",
+      "href": "pages/rhetoric-school-graduation-requirements-academics_1/",
+      "depth": 50
+    },
+    {
+      "slug": "classical-education-resources",
+      "title": "Classical Education Resources",
+      "url": "http://www.covenantclassicalschool.org/resources",
+      "href": "pages/classical-education-resources_3/",
+      "depth": 50
+    },
+    {
+      "slug": "welcome",
+      "title": "Welcome",
+      "url": "http://www.covenantclassicalschool.org/covenantwelcome",
+      "href": "pages/welcome_3/",
+      "depth": 33
+    },
+    {
+      "slug": "about-covenant",
+      "title": "About Covenant",
+      "url": "http://www.covenantclassicalschool.org/about-covenant",
+      "href": "pages/about-covenant_3/",
+      "depth": 34
+    },
+    {
+      "slug": "404-covenant-classical-school",
+      "title": "404 (Covenant Classical School)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=101395",
+      "href": "pages/404-covenant-classical-school_1/",
+      "depth": 35
+    },
+    {
+      "slug": "reflections-on-classical-education",
+      "title": "Reflections on Classical Education",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=101627",
+      "href": "pages/reflections-on-classical-education/",
+      "depth": 35
+    },
+    {
+      "slug": "covenant-mission",
+      "title": "Covenant Mission",
+      "url": "http://www.covenantclassicalschool.org/covenant-mission",
+      "href": "pages/covenant-mission_2/",
+      "depth": 35
+    },
+    {
+      "slug": "statement-of-faith",
+      "title": "Statement of Faith",
+      "url": "http://www.covenantclassicalschool.org/covenant-statement-of-faith",
+      "href": "pages/statement-of-faith_2/",
+      "depth": 36
+    },
+    {
+      "slug": "faculty",
+      "title": "Faculty",
+      "url": "http://www.covenantclassicalschool.org/faculty",
+      "href": "pages/faculty_2/",
+      "depth": 37
+    },
+    {
+      "slug": "understanding-classical-education",
+      "title": "Understanding Classical Education",
+      "url": "http://www.covenantclassicalschool.org/covenant-classical-education-approach",
+      "href": "pages/understanding-classical-education_2/",
+      "depth": 38
+    },
+    {
+      "slug": "board-of-trustees",
+      "title": "Board of Trustees",
+      "url": "http://www.covenantclassicalschool.org/board-of-trustees",
+      "href": "pages/board-of-trustees_2/",
+      "depth": 39
+    },
+    {
+      "slug": "advisory-board",
+      "title": "Advisory Board",
+      "url": "http://www.covenantclassicalschool.org/advisory-board",
+      "href": "pages/advisory-board_2/",
+      "depth": 40
+    },
+    {
+      "title": "Marshall Education Group",
+      "url": "http://marshalleducationgroup.com/"
+    },
+    {
+      "title": "Inside Classical Education",
+      "url": "http://insideclassicaled.com/"
+    },
+    {
+      "slug": "openings",
+      "title": "Openings",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=337089",
+      "href": "pages/openings/",
+      "depth": 41
+    },
+    {
+      "slug": "application-process-about-covenant",
+      "title": "Application Process (About Covenant)",
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=337090",
+      "href": "pages/application-process-about-covenant/",
+      "depth": 42
+    },
+    {
+      "title": "teacher job description",
+      "url": "http://66.132.139.241/uploads/CovenantTeacherJobDescription.pdf"
+    },
+    {
+      "slug": "directions",
+      "title": "Directions",
+      "url": "http://www.covenantclassicalschool.org/directions",
+      "href": "pages/directions_2/",
+      "depth": 43
+    },
+    {
+      "title": "1852 95th Street",
+      "url": "http://maps.google.com/maps?saddr=1852+95th+St,+Naperville,+IL&hl=en&ll=41.706049,-88.186269&spn=0.022395,0.052314&sll=39.739318,-89.266507&sspn=11.802131,26.784668&mra=ls&t=m&z=15"
+    },
+    {
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "url": "http://www.covenantclassicalschool.org/contact",
+      "href": "pages/contact-us_2/",
+      "depth": 44
+    },
+    {
+      "slug": "404-covenant-classical-school",
+      "title": "404 (Covenant Classical School)",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=101395",
+      "href": "pages/404-covenant-classical-school_2/",
+      "depth": 32
+    },
+    {
+      "slug": "naperville-private-christian-school",
+      "title": "Naperville Private Christian School",
+      "url": "http://covenantclassicalschool.org/default.asp",
+      "href": "pages/naperville-private-christian-school_2/",
+      "depth": 33
+    },
+    {
+      "slug": "reflections-on-classical-education",
+      "title": "Reflections on Classical Education",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=101627",
+      "href": "pages/reflections-on-classical-education_1/",
+      "depth": 32
+    },
+    {
+      "slug": "covenant-mission",
+      "title": "Covenant Mission",
+      "url": "http://covenantclassicalschool.org/covenant-mission",
+      "href": "pages/covenant-mission_3/",
+      "depth": 32
+    },
+    {
+      "slug": "statement-of-faith",
+      "title": "Statement of Faith",
+      "url": "http://covenantclassicalschool.org/covenant-statement-of-faith",
+      "href": "pages/statement-of-faith_3/",
+      "depth": 33
+    },
+    {
+      "slug": "administration",
+      "title": "Administration",
+      "url": "http://covenantclassicalschool.org/covenant-administration",
+      "href": "pages/administration_3/",
+      "depth": 34
+    },
+    {
+      "slug": "faculty",
+      "title": "Faculty",
+      "url": "http://covenantclassicalschool.org/faculty",
+      "href": "pages/faculty_3/",
+      "depth": 35
+    },
+    {
+      "slug": "understanding-classical-education",
+      "title": "Understanding Classical Education",
+      "url": "http://covenantclassicalschool.org/covenant-classical-education-approach",
+      "href": "pages/understanding-classical-education_3/",
+      "depth": 36
+    },
+    {
+      "slug": "board-of-trustees",
+      "title": "Board of Trustees",
+      "url": "http://covenantclassicalschool.org/board-of-trustees",
+      "href": "pages/board-of-trustees_3/",
+      "depth": 37
+    },
+    {
+      "slug": "advisory-board",
+      "title": "Advisory Board",
+      "url": "http://covenantclassicalschool.org/advisory-board",
+      "href": "pages/advisory-board_3/",
+      "depth": 38
+    },
+    {
+      "slug": "why-teach-at-covenant",
+      "title": "Why Teach at Covenant",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=336531",
+      "href": "pages/why-teach-at-covenant_1/",
+      "depth": 39
+    },
+    {
+      "slug": "openings",
+      "title": "Openings",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=337089",
+      "href": "pages/openings_1/",
+      "depth": 40
+    },
+    {
+      "slug": "application-process-about-covenant",
+      "title": "Application Process (About Covenant)",
+      "url": "http://covenantclassicalschool.org/pages/page.asp?page_id=337090",
+      "href": "pages/application-process-about-covenant_1/",
+      "depth": 41
+    },
+    {
+      "slug": "directions",
+      "title": "Directions",
+      "url": "http://covenantclassicalschool.org/directions",
+      "href": "pages/directions_3/",
+      "depth": 42
+    },
+    {
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "url": "http://covenantclassicalschool.org/contact",
+      "href": "pages/contact-us_3/",
+      "depth": 43
+    }
+  ],
+  "css": [
+    {
+      "url": "http://www.covenantclassicalschool.org/soIncludes/form_styles.css",
+      "href": "assets/css/soIncludes/form_styles.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/styles/style.css",
+      "href": "assets/css/styles/style.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/styles/home.css",
+      "href": "assets/css/styles/home.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34321",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/soIncludes/styles/media-html5.css",
+      "href": "assets/css/soIncludes/styles/media-html5.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34367",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34368",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/soIncludes/form_styles.css",
+      "href": "assets/css/soIncludes/form_styles.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/styles/style.css",
+      "href": "assets/css/styles/style.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34368",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/soIncludes/styles/media-html5.css",
+      "href": "assets/css/soIncludes/styles/media-html5.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34367",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34370",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34369",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34371",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34371",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34884",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34884",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34370",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34369",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/standardStyles/master.css",
+      "href": "assets/css/standardStyles/master.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/standardStyles/master.css",
+      "href": "assets/css/standardStyles/master.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34321",
+      "href": "assets/css/webservices/skinning/skin.aspx.css"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/styles/home.css",
+      "href": "assets/css/styles/home.css"
+    }
+  ],
+  "js": [
+    {
+      "url": "http://www.covenantclassicalschool.org/soIncludes/utilities/replaceActiveX.js",
+      "href": "assets/js/soIncludes/utilities/replaceActiveX.js"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/soIncludes/scripts/jquery-1.11.0.min.js",
+      "href": "assets/js/soIncludes/scripts/jquery-1.11.0.min.js"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/soIncludes/scripts/soContentRotator.js",
+      "href": "assets/js/soIncludes/scripts/soContentRotator.js"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/soIncludes/scripts/podcast.js",
+      "href": "assets/js/soIncludes/scripts/podcast.js"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/includes/js.js",
+      "href": "assets/js/includes/js.js"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/soIncludes/utilities/replaceActiveX.js",
+      "href": "assets/js/soIncludes/utilities/replaceActiveX.js"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/soIncludes/scripts/jquery-1.11.0.min.js",
+      "href": "assets/js/soIncludes/scripts/jquery-1.11.0.min.js"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/soIncludes/scripts/soContentRotator.js",
+      "href": "assets/js/soIncludes/scripts/soContentRotator.js"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/soIncludes/scripts/podcast.js",
+      "href": "assets/js/soIncludes/scripts/podcast.js"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/includes/js.js",
+      "href": "assets/js/includes/js.js"
+    }
+  ],
+  "media": [
+    {
+      "url": "http://www.covenantclassicalschool.org/images/css/facebook.png",
+      "href": "assets/media/images/css/facebook.png"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/images/css/youtube.png",
+      "href": "assets/media/images/css/youtube.png"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/icon-googleplus.png",
+      "href": "assets/media/uploads/icon-googleplus.png"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/christian-education.jpg",
+      "href": "assets/media/uploads/christian-education.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/biblical-view.jpg",
+      "href": "assets/media/uploads/biblical-view.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/intelligence-faith.jpg",
+      "href": "assets/media/uploads/intelligence-faith.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/widsom.jpg",
+      "href": "assets/media/uploads/widsom.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/excellence2.jpg",
+      "href": "assets/media/uploads/excellence2.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/purpose-lifes.jpg",
+      "href": "assets/media/uploads/purpose-lifes.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/2017WebsiteGrandOpenHouseFINAL(1).jpg",
+      "href": "assets/media/uploads/2017WebsiteGrandOpenHouseFINAL(1).jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantclassicalschool3-W.jpg",
+      "href": "assets/media/uploads/covenantclassicalschool3-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/classicaled-W.jpg",
+      "href": "assets/media/uploads/classicaled-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantmission-W.jpg",
+      "href": "assets/media/uploads/covenantmission-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/statementoffaith-W.jpg",
+      "href": "assets/media/uploads/statementoffaith-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/classicalapproach.jpg",
+      "href": "assets/media/uploads/classicalapproach.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Burke-Kelley.jpg",
+      "href": "assets/media/uploads/Burke-Kelley.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Burke-Kelley.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/MattCowanWEBSITE.jpg",
+      "href": "assets/media/uploads/MattCowanWEBSITE.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/MattCowanWEBSITE.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Smith-Warrenwebsite.jpg",
+      "href": "assets/media/uploads/Smith-Warrenwebsite.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Smith-Warrenwebsite.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/JamesThomasWEBSITE.jpg",
+      "href": "assets/media/uploads/JamesThomasWEBSITE.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/JamesThomasWEBSITE.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/DanTreierWEBSITE.jpg",
+      "href": "assets/media/uploads/DanTreierWEBSITE.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/DanTreierWEBSITE.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/JohnVessey-W.jpg",
+      "href": "assets/media/uploads/JohnVessey-W.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/JohnVessey-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantboardoftrustees-W.jpg",
+      "href": "assets/media/uploads/covenantboardoftrustees-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/advisory-board2.jpg",
+      "href": "assets/media/uploads/advisory-board2.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/SharonWeldy.jpg",
+      "href": "assets/media/uploads/SharonWeldy.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/SharonWeldy.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/LisaEekhoff.jpg",
+      "href": "assets/media/uploads/LisaEekhoff.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/LisaEekhoff.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/KaraHaas.jpg",
+      "href": "assets/media/uploads/KaraHaas.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/KaraHaas.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/GingerVessey.jpg",
+      "href": "assets/media/uploads/GingerVessey.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/GingerVessey.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/ChristinaMearse.jpg",
+      "href": "assets/media/uploads/ChristinaMearse.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/ChristinaMearse.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/charlescathedral-W.jpg",
+      "href": "assets/media/uploads/charlescathedral-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/DebSoehren.jpg",
+      "href": "assets/media/uploads/DebSoehren.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/DebSoehren.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/CasiKline.jpg",
+      "href": "assets/media/uploads/CasiKline.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/CasiKline.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/KimSceggel(1).jpg",
+      "href": "assets/media/uploads/KimSceggel(1).jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/KimSceggel(1).jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/AlyssaClements.jpg",
+      "href": "assets/media/uploads/AlyssaClements.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/AlyssaClements.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/jonhravatic2016.jpg",
+      "href": "assets/media/uploads/jonhravatic2016.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/jonhravatic2016.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/LorraineEgolf.jpg",
+      "href": "assets/media/uploads/LorraineEgolf.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/LorraineEgolf.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/ValerieBromenshenkel.jpg",
+      "href": "assets/media/uploads/ValerieBromenshenkel.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/ValerieBromenshenkel.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/ConnieBlaire.jpg",
+      "href": "assets/media/uploads/ConnieBlaire.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/ConnieBlaire.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/LauraDeSoto.jpg",
+      "href": "assets/media/uploads/LauraDeSoto.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/LauraDeSoto.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/PhilEvans2016.jpg",
+      "href": "assets/media/uploads/PhilEvans2016.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/PhilEvans2016.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/RachelLoCascio.jpg",
+      "href": "assets/media/uploads/RachelLoCascio.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/RachelLoCascio.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/EmilyPhillips.jpg",
+      "href": "assets/media/uploads/EmilyPhillips.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/EmilyPhillips.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/RyanGregornik.jpg",
+      "href": "assets/media/uploads/RyanGregornik.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/RyanGregornik.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/RyanSpice.jpg",
+      "href": "assets/media/uploads/RyanSpice.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/RyanSpice.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/DebWieland.jpg",
+      "href": "assets/media/uploads/DebWieland.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/DebWieland.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/ElizabethFuzak.jpg",
+      "href": "assets/media/uploads/ElizabethFuzak.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/ElizabethFuzak.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/HannahWood.jpg",
+      "href": "assets/media/uploads/HannahWood.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/HannahWood.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Camay Phinney website.jpg",
+      "href": "assets/media/uploads/Camay Phinney website.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Camay Phinney website.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/employmentopportunity-W.jpg",
+      "href": "assets/media/uploads/employmentopportunity-W.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/wheatlandsalemchurchwebsite.jpg",
+      "href": "assets/media/uploads/wheatlandsalemchurchwebsite.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/wheatlandsalemchurchwebsite.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/schoolbuilding-W.jpg",
+      "href": "assets/media/uploads/schoolbuilding-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantcontactus-W.jpg",
+      "href": "assets/media/uploads/covenantcontactus-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantacademics-W.jpg",
+      "href": "assets/media/uploads/covenantacademics-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/academic-achievement.jpg",
+      "href": "assets/media/uploads/academic-achievement.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/KindergartenFINAL_edited-1.jpg",
+      "href": "assets/media/uploads/KindergartenFINAL_edited-1.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/academics-W.jpg",
+      "href": "assets/media/uploads/academics-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/logicschool-W.jpg",
+      "href": "assets/media/uploads/logicschool-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/images/css/facebook.png",
+      "href": "assets/media/images/css/facebook.png"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/images/css/youtube.png",
+      "href": "assets/media/images/css/youtube.png"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/icon-googleplus.png",
+      "href": "assets/media/uploads/icon-googleplus.png"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/rhetoric-W.jpg",
+      "href": "assets/media/uploads/rhetoric-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantclassicalschool3-W.jpg",
+      "href": "assets/media/uploads/covenantclassicalschool3-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantmission-W.jpg",
+      "href": "assets/media/uploads/covenantmission-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/statementoffaith-W.jpg",
+      "href": "assets/media/uploads/statementoffaith-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/classicalapproach.jpg",
+      "href": "assets/media/uploads/classicalapproach.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantboardoftrustees-W.jpg",
+      "href": "assets/media/uploads/covenantboardoftrustees-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/advisory-board2.jpg",
+      "href": "assets/media/uploads/advisory-board2.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/charlescathedral-W.jpg",
+      "href": "assets/media/uploads/charlescathedral-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/schoolbuilding-W.jpg",
+      "href": "assets/media/uploads/schoolbuilding-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantcontactus-W.jpg",
+      "href": "assets/media/uploads/covenantcontactus-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantacademics-W.jpg",
+      "href": "assets/media/uploads/covenantacademics-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/academic-achievement.jpg",
+      "href": "assets/media/uploads/academic-achievement.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/KindergartenFINAL_edited-1.jpg",
+      "href": "assets/media/uploads/KindergartenFINAL_edited-1.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/academics-W.jpg",
+      "href": "assets/media/uploads/academics-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/logicschool-W.jpg",
+      "href": "assets/media/uploads/logicschool-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/collegeadvisor-W.jpg",
+      "href": "assets/media/uploads/collegeadvisor-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/schoolprofile-W.jpg",
+      "href": "assets/media/uploads/schoolprofile-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/pie-Covenant.jpg",
+      "href": "assets/media/uploads/pie-Covenant.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/pie-Covenant.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/copenhouse-r.jpg",
+      "href": "assets/media/uploads/copenhouse-r.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/copenhouse-r.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantwiththeearth.jpg",
+      "href": "assets/media/uploads/covenantwiththeearth.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenantwiththeearth.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/faithandeducation-w.jpg",
+      "href": "assets/media/uploads/faithandeducation-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/faithandeducation-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Trib-local-Sept-10.jpg",
+      "href": "assets/media/uploads/Trib-local-Sept-10.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Trib-local-Sept-10.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/DailyHerald-w.jpg",
+      "href": "assets/media/uploads/DailyHerald-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/DailyHerald-w.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantnewspage2-w.jpg",
+      "href": "assets/media/uploads/covenantnewspage2-w.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/Covenant-Classical-School-Events.jpg",
+      "href": "assets/media/uploads/Covenant-Classical-School-Events.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/Covenantgym-W.jpg",
+      "href": "assets/media/uploads/Covenantgym-W.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/studentlife-W.jpg",
+      "href": "assets/media/uploads/studentlife-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/service-opportunities.jpg",
+      "href": "assets/media/uploads/service-opportunities.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/dailyschedule-W.jpg",
+      "href": "assets/media/uploads/dailyschedule-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/parentalinvolvement-W.jpg",
+      "href": "assets/media/uploads/parentalinvolvement-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenant-volunteer.jpg",
+      "href": "assets/media/uploads/covenant-volunteer.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/300x100_uni_wdg.jpg",
+      "href": "assets/media/uploads/300x100_uni_wdg.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/300x100_uni_wdg.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantuniform-W.jpg",
+      "href": "assets/media/uploads/covenantuniform-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/art-W.jpg",
+      "href": "assets/media/uploads/art-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/healthforms-W.jpg",
+      "href": "assets/media/uploads/healthforms-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/shopbuttons-w.png",
+      "href": "assets/media/uploads/shopbuttons-w.png",
+      "alt": "http://www.covenantclassicalschool.org/uploads/shopbuttons-w.png"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantembroideredlogo-w.jpg",
+      "href": "assets/media/uploads/covenantembroideredlogo-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenantembroideredlogo-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantshortpolo-w.jpg",
+      "href": "assets/media/uploads/covenantshortpolo-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenantshortpolo-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantlongpolo-w(1).jpg",
+      "href": "assets/media/uploads/covenantlongpolo-w(1).jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenantlongpolo-w(1).jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantfleecejacket-w(1).jpg",
+      "href": "assets/media/uploads/covenantfleecejacket-w(1).jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenantfleecejacket-w(1).jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/studentpeshirt-w.jpg",
+      "href": "assets/media/uploads/studentpeshirt-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/studentpeshirt-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/sigwaterbottle-w.jpg",
+      "href": "assets/media/uploads/sigwaterbottle-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/sigwaterbottle-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/sweatshirt-w.jpg",
+      "href": "assets/media/uploads/sweatshirt-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/sweatshirt-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenanttravelmug-w.jpg",
+      "href": "assets/media/uploads/covenanttravelmug-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenanttravelmug-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenant-car-magnet-w.jpg",
+      "href": "assets/media/uploads/covenant-car-magnet-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/covenant-car-magnet-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Laptoplunches-w.jpg",
+      "href": "assets/media/uploads/Laptoplunches-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Laptoplunches-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/laptoplunchsystem-w.jpg",
+      "href": "assets/media/uploads/laptoplunchsystem-w.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/laptoplunchsystem-w.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantstorekey-w.jpg",
+      "href": "assets/media/uploads/covenantstorekey-w.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/enrollmentapplicationprocess.jpg",
+      "href": "assets/media/uploads/enrollmentapplicationprocess.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/whycovenant-W.jpg",
+      "href": "assets/media/uploads/whycovenant-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantkids-W.jpg",
+      "href": "assets/media/uploads/covenantkids-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/tuition-W.jpg",
+      "href": "assets/media/uploads/tuition-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/financialaid-W.jpg",
+      "href": "assets/media/uploads/financialaid-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/faqs-W.jpg",
+      "href": "assets/media/uploads/faqs-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/adminevents-W.jpg",
+      "href": "assets/media/uploads/adminevents-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/FoldaKidsCube.jpg",
+      "href": "assets/media/uploads/FoldaKidsCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/spiritualformation4.jpg",
+      "href": "assets/media/uploads/spiritualformation4.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/spiritualformation4.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/spiritualformation.jpg",
+      "href": "assets/media/uploads/spiritualformation.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/spiritualformation.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/spiritualformationcube.jpg",
+      "href": "assets/media/uploads/spiritualformationcube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/MorningLaudshallway.jpg",
+      "href": "assets/media/uploads/MorningLaudshallway.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/MorningLaudshallway.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/MorningLaudsCUBE.jpg",
+      "href": "assets/media/uploads/MorningLaudsCUBE.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/JimmyRabeUpdatedCube.jpg",
+      "href": "assets/media/uploads/JimmyRabeUpdatedCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/SimoneMusic.jpg",
+      "href": "assets/media/uploads/SimoneMusic.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/SimoneMusic.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/NoahMusic.jpg",
+      "href": "assets/media/uploads/NoahMusic.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/NoahMusic.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/MusicCube.jpg",
+      "href": "assets/media/uploads/MusicCube.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/KatyIvyCube.jpg",
+      "href": "assets/media/uploads/KatyIvyCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Chemistryimage.jpg",
+      "href": "assets/media/uploads/Chemistryimage.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Chemistryimage.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/chemistryfooter.jpg",
+      "href": "assets/media/uploads/chemistryfooter.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/chemistryfooter.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/Chemistrycube.jpg",
+      "href": "assets/media/uploads/Chemistrycube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Sparkingthefirefooter_edited-3.jpg",
+      "href": "assets/media/uploads/Sparkingthefirefooter_edited-3.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Sparkingthefirefooter_edited-3.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Sparkingthefirecube_edited-1.jpg",
+      "href": "assets/media/uploads/Sparkingthefirecube_edited-1.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/mathfooter_edited-1.jpg",
+      "href": "assets/media/uploads/mathfooter_edited-1.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/mathfooter_edited-1.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/Mathcube_edited-1.jpg",
+      "href": "assets/media/uploads/Mathcube_edited-1.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/RenFaireZinn.jpg",
+      "href": "assets/media/uploads/RenFaireZinn.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/RenFaireZinn.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/GalileanTrio.jpg",
+      "href": "assets/media/uploads/GalileanTrio.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/GalileanTrio.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/RenFaireGroupFinal.jpg",
+      "href": "assets/media/uploads/RenFaireGroupFinal.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/RenFaireGroupFinal.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/GalileoCube.jpg",
+      "href": "assets/media/uploads/GalileoCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/GirlsBibleStudy.jpg",
+      "href": "assets/media/uploads/GirlsBibleStudy.jpg",
+      "alt": "http://www.covenantclassicalschool.org/uploads/GirlsBibleStudy.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/Stephaniecube.jpg",
+      "href": "assets/media/uploads/Stephaniecube.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/familyfun-W.jpg",
+      "href": "assets/media/uploads/familyfun-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/givegenerously-W.jpg",
+      "href": "assets/media/uploads/givegenerously-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/TriviaNight2017websitebanner.jpg",
+      "href": "assets/media/uploads/TriviaNight2017websitebanner.jpg",
+      "alt": "Trivia Night"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/biblecurriculum.jpg",
+      "href": "assets/media/uploads/biblecurriculum.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/languageart-W.jpg",
+      "href": "assets/media/uploads/languageart-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/history-W.jpg",
+      "href": "assets/media/uploads/history-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/scienceandmath-W.jpg",
+      "href": "assets/media/uploads/scienceandmath-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/Latin-W.jpg",
+      "href": "assets/media/uploads/Latin-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/classicaleducationschool-W(1).jpg",
+      "href": "assets/media/uploads/classicaleducationschool-W(1).jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/art-W(1).jpg",
+      "href": "assets/media/uploads/art-W(1).jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/CovenantAthensPlay.jpg",
+      "href": "assets/media/uploads/CovenantAthensPlay.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/music.jpg",
+      "href": "assets/media/uploads/music.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/phyed-W.jpg",
+      "href": "assets/media/uploads/phyed-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/grammarcurriculum-W.jpg",
+      "href": "assets/media/uploads/grammarcurriculum-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/grammarlitlist-W.jpg",
+      "href": "assets/media/uploads/grammarlitlist-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/readalouds-W.jpg",
+      "href": "assets/media/uploads/readalouds-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Field-Trips.png",
+      "href": "assets/media/uploads/Field-Trips.png",
+      "alt": "http://www.covenantclassicalschool.org/uploads/Field-Trips.png"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/logicschoolcurriculum-W.jpg",
+      "href": "assets/media/uploads/logicschoolcurriculum-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/logicschoolliteraturelist-W.jpg",
+      "href": "assets/media/uploads/logicschoolliteraturelist-W.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/uscurriculum-W.jpg",
+      "href": "assets/media/uploads/uscurriculum-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/collegeadvisor-W.jpg",
+      "href": "assets/media/uploads/collegeadvisor-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/schoolprofile-W.jpg",
+      "href": "assets/media/uploads/schoolprofile-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantnewspage2-w.jpg",
+      "href": "assets/media/uploads/covenantnewspage2-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Covenant-Classical-School-Events.jpg",
+      "href": "assets/media/uploads/Covenant-Classical-School-Events.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Covenantgym-W.jpg",
+      "href": "assets/media/uploads/Covenantgym-W.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/studentlife-W.jpg",
+      "href": "assets/media/uploads/studentlife-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/service-opportunities.jpg",
+      "href": "assets/media/uploads/service-opportunities.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/dailyschedule-W.jpg",
+      "href": "assets/media/uploads/dailyschedule-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/parentalinvolvement-W.jpg",
+      "href": "assets/media/uploads/parentalinvolvement-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenant-volunteer.jpg",
+      "href": "assets/media/uploads/covenant-volunteer.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantuniform-W.jpg",
+      "href": "assets/media/uploads/covenantuniform-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/art-W.jpg",
+      "href": "assets/media/uploads/art-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/healthforms-W.jpg",
+      "href": "assets/media/uploads/healthforms-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantstorekey-w.jpg",
+      "href": "assets/media/uploads/covenantstorekey-w.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/enrollmentapplicationprocess.jpg",
+      "href": "assets/media/uploads/enrollmentapplicationprocess.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/whycovenant-W.jpg",
+      "href": "assets/media/uploads/whycovenant-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantkids-W.jpg",
+      "href": "assets/media/uploads/covenantkids-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/tuition-W.jpg",
+      "href": "assets/media/uploads/tuition-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/financialaid-W.jpg",
+      "href": "assets/media/uploads/financialaid-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/faqs-W.jpg",
+      "href": "assets/media/uploads/faqs-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/adminevents-W.jpg",
+      "href": "assets/media/uploads/adminevents-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/FoldaKidsCube.jpg",
+      "href": "assets/media/uploads/FoldaKidsCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/spiritualformationcube.jpg",
+      "href": "assets/media/uploads/spiritualformationcube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/MorningLaudsCUBE.jpg",
+      "href": "assets/media/uploads/MorningLaudsCUBE.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/JimmyRabeUpdatedCube.jpg",
+      "href": "assets/media/uploads/JimmyRabeUpdatedCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/MusicCube.jpg",
+      "href": "assets/media/uploads/MusicCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/KatyIvyCube.jpg",
+      "href": "assets/media/uploads/KatyIvyCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Chemistrycube.jpg",
+      "href": "assets/media/uploads/Chemistrycube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Mathcube_edited-1.jpg",
+      "href": "assets/media/uploads/Mathcube_edited-1.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/GalileoCube.jpg",
+      "href": "assets/media/uploads/GalileoCube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Stephaniecube.jpg",
+      "href": "assets/media/uploads/Stephaniecube.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/familyfun-W.jpg",
+      "href": "assets/media/uploads/familyfun-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/givegenerously-W.jpg",
+      "href": "assets/media/uploads/givegenerously-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/biblecurriculum.jpg",
+      "href": "assets/media/uploads/biblecurriculum.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/languageart-W.jpg",
+      "href": "assets/media/uploads/languageart-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/history-W.jpg",
+      "href": "assets/media/uploads/history-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/scienceandmath-W.jpg",
+      "href": "assets/media/uploads/scienceandmath-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/Latin-W.jpg",
+      "href": "assets/media/uploads/Latin-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/classicaleducationschool-W(1).jpg",
+      "href": "assets/media/uploads/classicaleducationschool-W(1).jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/art-W(1).jpg",
+      "href": "assets/media/uploads/art-W(1).jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/CovenantAthensPlay.jpg",
+      "href": "assets/media/uploads/CovenantAthensPlay.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/music.jpg",
+      "href": "assets/media/uploads/music.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/phyed-W.jpg",
+      "href": "assets/media/uploads/phyed-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/grammarcurriculum-W.jpg",
+      "href": "assets/media/uploads/grammarcurriculum-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/readalouds-W.jpg",
+      "href": "assets/media/uploads/readalouds-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/grammarlitlist-W.jpg",
+      "href": "assets/media/uploads/grammarlitlist-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/logicschoolcurriculum-W.jpg",
+      "href": "assets/media/uploads/logicschoolcurriculum-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/logicschoolliteraturelist-W.jpg",
+      "href": "assets/media/uploads/logicschoolliteraturelist-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/rhetoric-W.jpg",
+      "href": "assets/media/uploads/rhetoric-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/uscurriculum-W.jpg",
+      "href": "assets/media/uploads/uscurriculum-W.jpg"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/covenantemploymentopenings-.jpg",
+      "href": "assets/media/uploads/covenantemploymentopenings-.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/uploads/employmentapplication-W.jpg",
+      "href": "assets/media/uploads/employmentapplication-W.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/christian-education.jpg",
+      "href": "assets/media/uploads/christian-education.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/biblical-view.jpg",
+      "href": "assets/media/uploads/biblical-view.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/intelligence-faith.jpg",
+      "href": "assets/media/uploads/intelligence-faith.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/widsom.jpg",
+      "href": "assets/media/uploads/widsom.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/excellence2.jpg",
+      "href": "assets/media/uploads/excellence2.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/purpose-lifes.jpg",
+      "href": "assets/media/uploads/purpose-lifes.jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/2017WebsiteGrandOpenHouseFINAL(1).jpg",
+      "href": "assets/media/uploads/2017WebsiteGrandOpenHouseFINAL(1).jpg"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/employmentopportunity-W.jpg",
+      "href": "assets/media/uploads/employmentopportunity-W.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/covenantemploymentopenings-.jpg",
+      "href": "assets/media/uploads/covenantemploymentopenings-.jpg",
+      "alt": "Header Image"
+    },
+    {
+      "url": "http://covenantclassicalschool.org/uploads/employmentapplication-W.jpg",
+      "href": "assets/media/uploads/employmentapplication-W.jpg",
+      "alt": "Header Image"
+    }
+  ]
+}

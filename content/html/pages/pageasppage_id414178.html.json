@@ -1,0 +1,429 @@
+{
+  "html": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:og=\"http://ogp.me/ns#\" xmlns:fb=\"http://www.facebook.com/2008/fbml\">\n  <head>\r\n    <meta property=\"og:title\" content=\"\">\n\r\n    <!-- sql: sproc_friendlyURL_byPage_select 414178 -->\r\n    <meta name=\"keywords\" content=\"\">\r\n    <meta name=\"description\" content=\"\">\r\n    <meta name=\"google-site-verification\" content=\"cBLGcYnCDWPBBu7boSwKBUCB739hATIFG4erti5ZPsU\">\r\n    <meta name=\"msvalidate.01\" content=\"0754BCFFC316452FFAB656B0479CA962\">\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n    <link href=\"http://www.covenantclassicalschool.org/soIncludes/form_styles.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"http://www.covenantclassicalschool.org/styles/style.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <script src=\"http://www.covenantclassicalschool.org/soIncludes/utilities/replaceActiveX.js\" type=\"text/javascript\" language=\"JavaScript\"></script>\n\r\n    <!-- testMonday3 -->\r\n    <script src=\"http://www.covenantclassicalschool.org/soIncludes/scripts/jquery-1.11.0.min.js\"></script>\r\n    <script src=\"http://www.covenantclassicalschool.org/soIncludes/scripts/soContentRotator.js\" type=\"text/javascript\" language=\"JavaScript\"></script>\r\n    <script src=\"http://www.covenantclassicalschool.org/soIncludes/scripts/podcast.js\" type=\"text/javascript\" language=\"JavaScript\"></script>\r\n    <script src=\"http://www.covenantclassicalschool.org/includes/js.js\" type=\"text/javascript\" language=\"JavaScript\" async=\"async\"></script>\n\r\n    <!-- rd:False-->\r\n    <title>Transforming the Morning | Covenant Classical School | Naperville</title>\r\n    <link href=\"http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34371\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"http://www.covenantclassicalschool.org/soIncludes/styles/media-html5.css\" rel=\"stylesheet\" type=\"text/css\">\r\n  </head>\n\r\n  <!--endof head-->\n  <body class=\"group-34371 page-414178\">\n\r\n    <!--afterbody-->\r\n    <div class=\"frame\">\r\n      <div id=\"header\">\r\n        <div id=\"utility_container\">\r\n          <div id=\"utility\">\r\n            <ul>\r\n              <li>\r\n                <a href=\"https://www.facebook.com/CovenantClassicalSchool\">\r\n                  <img src=\"http://www.covenantclassicalschool.org/images/css/facebook.png\">\r\n                </a> \r\n              </li>\r\n              <li>\r\n                <a href=\"https://www.youtube.com/c/CovenantClassicalSchoolNaperville/\">\r\n                  <img src=\"http://www.covenantclassicalschool.org/images/css/youtube.png\">\r\n                </a> \r\n              </li>\r\n              <li>\r\n                <a href=\"https://plus.google.com/+CovenantClassicalSchoolNaperville/\">\r\n                  <img src=\"http://www.covenantclassicalschool.org/uploads/icon-googleplus.png\">\r\n                </a> \r\n              </li>\r\n            </ul>\r\n          </div><!--/utility-->\r\n          <div id=\"search\" title=\"Search\">\r\n            <form name=\"searchSite\" method=\"post\" action=\"/search_results.asp\">\r\n              <input name=\"query\" type=\"text\" class=\"search\" value=\"\" onclick=\"this.value=&apos;&apos;;\">\r\n              <input type=\"button\" class=\"button\" value=\"Search\" alt=\"Search\" onclick=\"submit();\">\r\n            </form>\r\n          </div><!--/search-->\r\n        </div><!-- /utility_container-->\r\n        <div id=\"nav_container\">\r\n          <div id=\"logo\">\r\n            <a href=\"http://www.covenantclassicalschool.org/\" id=\"logo\"><span></span> </a> \r\n          </div>\r\n          <div id=\"nav\">\r\n            <ul>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/\">Home</a> \r\n                <ul class=\"hidden\"></ul>\r\n              </li>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99475\">About Covenant</a> \r\n                <ul>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97826\">Welcome </a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97812\">Mission</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97813\">Statement of Faith</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97814\">Classical Approach</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=98009\">Board of Trustees</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=120618\">Advisory Board</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97817\">Administration</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=127428 \">Faculty</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=336531\">Employment</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99475\">School Profile</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99382\">Directions</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97821\">Contact Us</a>  </li>\r\n                </ul>\r\n              </li>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97822\">Academics</a> \r\n                <ul>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=151308\">Academic Achievements</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97822\">Curriculum Overview</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=100701\">Kindergarten</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=98010\">Grammar School</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=98133\">Logic School</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=98136\">Rhetoric School</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=98140\">College Advising</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=101624\">Resources</a>  </li>\r\n                </ul>\r\n              </li>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=122497\">Covenant Life</a> \r\n                <ul>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=174604\">Upcoming Events</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97834\">Extracurricular Activities</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=151014\">Service Opportunities</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=360805\">School Calendar</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=101320\">Daily Schedule</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97832\">Parental Involvement</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=124783\">Parent Volunteers</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97833\">Uniform Policy</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=111492\">Student Supply List</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=116752\">Forms</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=130062\">The Covenant Store</a>  </li>\r\n                </ul>\r\n              </li>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97827\">Admissions</a> \r\n                <ul>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97838\">Choosing a Classical School</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=98887\">Classical Benefits</a>  </li>\r\n                  <li> <a href=\"https://cov-il.client.renweb.com/oa/?memberid=2291\">Application Process</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97828\">Tuition</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97829\">Need-Based Tuition Discounts</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99049\">FAQs</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=97830\">Visit Covenant</a>  </li>\r\n                </ul>\r\n              </li>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=424728\">Stories</a> \r\n                <ul>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=424728\">100 Pennies</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=422701\">Heart Songs</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=414200\">Seen, Known, Loved</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=414178\">Transforming the Morning</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=409922\">The Soul of Education</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=413793\">Experiencing Music</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=406335\">All We Ever Wanted</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=408272\">A Profoundly Human Pursuit</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=349553\">Sparking the Fire</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=355256\">Mathematical Wonder</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=357129\">Becoming Galileo</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=398064\">Transformational Analysis</a>  </li>\r\n                </ul>\r\n              </li>\r\n              <li>\r\n                <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99271\">Support Covenant</a> \r\n                <ul>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99271\">Why Covenant</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99273\">Ways to Give</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=99274\">The Covenant Annual Fund</a>  </li>\r\n                  <li> <a href=\"http://www.covenantclassicalschool.org/trivianight\">Trivia Night Fundraiser</a>  </li>\r\n                </ul>\r\n              </li>\r\n            </ul>\r\n          </div><!--/nav-->\r\n        </div><!-- /nav_container-->\r\n      </div><!--/header-->\r\n      <div id=\"content\">\r\n        <div id=\"container\">\r\n          <div id=\"wide_container\">\r\n            <div id=\"content_wide\">\r\n              <div id=\"pageName\">\r\n                <h1>Transforming the Morning</h1>\r\n              </div>\n\r\n              <!--pageName-->\r\n              <div id=\"content_text\">\r\n                <p style=\"text-align: left;\"><em>By Lisa Eekhoff, Grammar Principal</em> &#xA0; &#xA0; &#xA0;\r\n                  <br> &#xA0; &#xA0;\r\n                  <br> &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0;\r\n                  <img src=\"http://www.covenantclassicalschool.org/uploads/MorningLaudshallway.jpg\" alt=\"http://www.covenantclassicalschool.org/uploads/MorningLaudshallway.jpg\" style=\"left: 126px; width: 413px; height: 229px; top: 37px;\">\r\n                </p>\r\n                <span id=\"docs-internal-guid-412da6e5-ed5a-3452-91b0-4c0818d68991\"></span> \r\n                <p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; text-align: center;\"><span style=\"background-color: transparent;\">&#x201C;It is good to praise the Lord and make music to your name, O Most High,</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\">proclaiming your love in the morning and your faithfulness at night,&#x201D;</span> </p>\r\n                <p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; text-align: center;\"><span style=\"background-color: transparent;\">Psalm 92:1-2</span> </p>\r\n                <span id=\"docs-internal-guid-412da6e5-ed5a-3452-91b0-4c0818d68991\"><br>\r\n</span> \r\n                <p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"background-color: transparent;\">I&#x2019;ve never been a morning person. &#xA0;I am one of those people who take a while to get up and get going. &#xA0;But I must admit that one of my favorite parts of the day at Covenant happens first thing each morning.</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\">As the students fill the hallways, hanging up backpacks and chatting with friends, there is an air of anticipation. &#xA0;Soon our entire community-students and teachers alike-gathers in the hall to begin our day with song. &#xA0;We sing from memory and in unison, from the smallest Kindergarten girls to the tallest high-school boys. &#xA0;We sing songs of faith and praise that have been been sung by countless generations of believers before us. &#xA0;We sing with joy and love and thankful hearts.</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\">The practice of beginning our day with praise has quickly become a beloved tradition at Covenant. &#xA0;A new hymn is chosen each month, and after we sing, a blessing is given to start the day.</span> <span style=\"background-color: transparent;\"> &#xA0;</span> <span style=\"background-color: transparent;\">This time of Morning Lauds draws us together in community, reminding us that we are all brothers and sisters in Christ. &#xA0;It allows for a moment of reflection and refocus before beginning the work that God has set before us. &#xA0;And it sets a tone of worship for the day that inspires a culture focused on Christ.</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n<br class=\"kix-line-break\">\r\n</span> </p>\r\n                <p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"background-color: transparent;\">As we sing these hymns from memory, we inscribe their timeless truths on the hearts of the students. &#xA0;This is a gift that they can carry with them throughout their lives. &#xA0;Even when other facts and figures fade, these melodies will bring them back to the gospel truths imbedded in the lyrics. &#xA0;</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\">Over the years, one of my greatest joys has been hearing from families how our Morning Lauds have impacted them. &#xA0;&#xA0;They tell me of the loud and joyous singing that happens when their children recognize the hymns in church, of younger siblings who have latched onto the hymns and sing them incessantly, and of extended family and friends spread abroad who join them in learning these precious songs. What a testimony to the hand of God at work in the broader Covenant community as we enter into worship together!</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\"><br class=\"kix-line-break\">\r\n</span> <span style=\"background-color: transparent;\">And though mornings may still find me groggy and slow, the practice of Morning Lauds has transformed mine into something I would not trade for anything.</span> </p>\r\n                <span id=\"docs-internal-guid-412da6e5-ed5a-3452-91b0-4c0818d68991\">\r\n<div><span style=\"background-color: transparent;\"><br>\r\n</span> </div>\r\n              </span> \r\n            </div><!--/content_text-->\r\n          </div>\n\r\n          <!--content_wide-->\r\n        </div><!-- /wide_container-->\r\n        <div id=\"narrow_container\">\r\n          <div id=\"content_narrow\">\r\n            <div class=\"image\">\r\n              <img src=\"http://www.covenantclassicalschool.org/uploads/MorningLaudsCUBE.jpg\">\r\n            </div>\r\n            <div id=\"group_nav\">\r\n              <div class=\"name\">\r\n                <h3>Covenant Stories</h3>\r\n              </div><!-- /name-->\r\n              <ul>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=414200\">Seen, Known, Loved</a>  </li>\r\n                <li> <a class=\"selected\" href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=414178\">Transforming the Morning</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=409922\">The Soul of Education</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=413793\">Experiencing Music</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=406335\">All We Ever Wanted </a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=408272\">A Profoundly Human Pursuit </a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/kindergartenstory\">Sparking the Fire</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=355256\">Fostering Mathematical Wonder</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=357129\">Becoming Galileo</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=398064\">Transformational Analysis</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=422701\">Heart Songs</a>  </li>\r\n                <li> <a href=\"http://www.covenantclassicalschool.org/pages/page.asp?page_id=424728\">100 Pennies</a>  </li>\r\n              </ul>\n            </div><!--/group_nav-->\r\n          </div>\n\r\n          <!--content_narrow-->\r\n        </div><!-- /narrow_container-->\r\n      </div><!-- /container-->\r\n    </div><!--/content-->\r\n    <div id=\"footer_container\">\n\r\n      <!-- testBBB s14 incContent -->\r\n      <div id=\"footer\">\r\n        <p style=\"text-align: center;\"><span style=\"font-size: 10px;\"><span style=\"font-family: arial; color: #d8d8d8;\">&#xA0;1852 95t</span> <span style=\"font-family: arial; color: #d8d8d8;\">h </span> </span> <span style=\"font-size: x-small; font-family: arial; color: #d8d8d8;\">St., </span> <span style=\"font-family: arial; color: #bfbfbf;\"><span style=\"font-size: x-small; color: #d8d8d8;\">Naperville, IL 60564 &#xA0;Tel: (630) 983-7500</span> <span style=\"font-size: x-small; color: #d8d8d8;\">&#xA0; </span> <span style=\"font-size: x-small; color: #d8d8d8;\">&#xA0;</span> <span style=\"font-size: 10pt; color: #bfbfbf;\"><span style=\"color: #d8d8d8;\"><a href=\"mailto:office@covenantclassicalschool.org\"><span style=\"font-size: x-small; text-decoration: underline;\">office@covenantclassicalschool.org</span> </a> <span style=\"font-size: x-small;\">&#xA0; &#xA0;<a href=\"https://cov-il.client.renweb.com/pw/\" target=\"_blank\">Login to&#xA0; <span style=\"font-size: x-small;\">ParentsWeb </span>  </a> \r\n          </span> \r\n          </span> <span style=\"font-size: x-small; color: #d8d8d8;\"><span style=\"font-size: x-small;\">&#xA0; &#xA0; Create a </span> <span style=\"text-decoration: underline;\"></span> \r\n          <a href=\"https://online.factsmgt.com/Tmg/public/AgreementSignup.aspx?t=3H0T9&amp;siv=y\" target=\"_blank\"><span style=\"text-decoration: underline;\">FACTS&#xA0;Account</span> &#xA0;</a> &#xA0;&#xA0;&#xA0;Existing <span style=\"font-size: x-small; text-decoration: underline;\"><a href=\"https://online.factsmgt.com/\" target=\"_blank\">FACTS Acc</a> ounts</span> \r\n            <br style=\"text-decoration: underline;\">\r\n            <br>\r\n            <span style=\"text-decoration: underline;\"></span> </span> \r\n            </span> \r\n            </span> \r\n        </p>\r\n        <script type=\"text/javascript\">\r\n          var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" :\r\n            \"http://www.\");\r\n          document.write(unescape(\"%3Cscript src='\" + gaJsHost +\r\n            \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\r\n        </script>\r\n        <script type=\"text/javascript\">\r\n          try {\r\n            var pageTracker = _gat._getTracker(\"UA-12966308-1\");\r\n            pageTracker._trackPageview();\r\n          } catch (err) {}\r\n        </script>\r\n      </div><!--/footer-->\r\n    </div><!-- /footer_container -->\r\n    <div id=\"so_link\">\r\n      <div id=\"so_link_text\">\r\n        <a href=\"http://www.siteorganic.com/\" target=\"_blank\">Church Website Design by Site Organic</a> \r\n      </div>\r\n    </div>\r\n    <div style=\"clear:both\"></div>\r\n    </div><!--/frame-->\r\n  </body>\n</html>",
+  "title": "Transforming the Morning | Covenant Classical School | Naperville",
+  "description": "",
+  "keywords": [],
+  "slug": "transforming-the-morning",
+  "links": [
+    {
+      "url": "https://www.facebook.com/CovenantClassicalSchool",
+      "text": ""
+    },
+    {
+      "url": "https://www.youtube.com/c/CovenantClassicalSchoolNaperville/",
+      "text": ""
+    },
+    {
+      "url": "https://plus.google.com/+CovenantClassicalSchoolNaperville/",
+      "text": ""
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/",
+      "text": ""
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/",
+      "text": "Home"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99475",
+      "text": "About Covenant",
+      "file": "html/pages/pageasppage_id99475.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97826",
+      "text": "Welcome",
+      "file": "html/pages/pageasppage_id97826.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97812",
+      "text": "Mission",
+      "file": "html/pages/pageasppage_id97812.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97813",
+      "text": "Statement of Faith",
+      "file": "html/pages/pageasppage_id97813.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97814",
+      "text": "Classical Approach",
+      "file": "html/pages/pageasppage_id97814.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98009",
+      "text": "Board of Trustees",
+      "file": "html/pages/pageasppage_id98009.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=120618",
+      "text": "Advisory Board",
+      "file": "html/pages/pageasppage_id120618.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97817",
+      "text": "Administration",
+      "file": "html/pages/pageasppage_id97817.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=127428 ",
+      "text": "Faculty",
+      "file": "html/pages/pageasppage_id127428.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=336531",
+      "text": "Employment",
+      "file": "html/pages/pageasppage_id336531.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99475",
+      "text": "School Profile",
+      "file": "html/pages/pageasppage_id99475.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99382",
+      "text": "Directions",
+      "file": "html/pages/pageasppage_id99382.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97821",
+      "text": "Contact Us",
+      "file": "html/pages/pageasppage_id97821.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97822",
+      "text": "Academics",
+      "file": "html/pages/pageasppage_id97822.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=151308",
+      "text": "Academic Achievements",
+      "file": "html/pages/pageasppage_id151308.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97822",
+      "text": "Curriculum Overview",
+      "file": "html/pages/pageasppage_id97822.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=100701",
+      "text": "Kindergarten",
+      "file": "html/pages/pageasppage_id100701.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98010",
+      "text": "Grammar School",
+      "file": "html/pages/pageasppage_id98010.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98133",
+      "text": "Logic School",
+      "file": "html/pages/pageasppage_id98133.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98136",
+      "text": "Rhetoric School",
+      "file": "html/pages/pageasppage_id98136.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98140",
+      "text": "College Advising",
+      "file": "html/pages/pageasppage_id98140.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=101624",
+      "text": "Resources",
+      "file": "html/pages/pageasppage_id101624.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=122497",
+      "text": "Covenant Life",
+      "file": "html/pages/pageasppage_id122497.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=174604",
+      "text": "Upcoming Events",
+      "file": "html/pages/pageasppage_id174604.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97834",
+      "text": "Extracurricular Activities",
+      "file": "html/pages/pageasppage_id97834.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=151014",
+      "text": "Service Opportunities",
+      "file": "html/pages/pageasppage_id151014.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=360805",
+      "text": "School Calendar",
+      "file": "html/pages/pageasppage_id360805.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=101320",
+      "text": "Daily Schedule",
+      "file": "html/pages/pageasppage_id101320.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97832",
+      "text": "Parental Involvement",
+      "file": "html/pages/pageasppage_id97832.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=124783",
+      "text": "Parent Volunteers",
+      "file": "html/pages/pageasppage_id124783.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97833",
+      "text": "Uniform Policy",
+      "file": "html/pages/pageasppage_id97833.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=111492",
+      "text": "Student Supply List",
+      "file": "html/pages/pageasppage_id111492.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=116752",
+      "text": "Forms",
+      "file": "html/pages/pageasppage_id116752.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=130062",
+      "text": "The Covenant Store",
+      "file": "html/pages/pageasppage_id130062.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97827",
+      "text": "Admissions",
+      "file": "html/pages/pageasppage_id97827.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97838",
+      "text": "Choosing a Classical School",
+      "file": "html/pages/pageasppage_id97838.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=98887",
+      "text": "Classical Benefits",
+      "file": "html/pages/pageasppage_id98887.html"
+    },
+    {
+      "url": "https://cov-il.client.renweb.com/oa/?memberid=2291",
+      "text": "Application Process",
+      "file": "html/oamemberid2291.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97828",
+      "text": "Tuition",
+      "file": "html/pages/pageasppage_id97828.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97829",
+      "text": "Need-Based Tuition Discounts",
+      "file": "html/pages/pageasppage_id97829.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99049",
+      "text": "FAQs",
+      "file": "html/pages/pageasppage_id99049.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=97830",
+      "text": "Visit Covenant",
+      "file": "html/pages/pageasppage_id97830.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=424728",
+      "text": "Stories",
+      "file": "html/pages/pageasppage_id424728.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=424728",
+      "text": "100 Pennies",
+      "file": "html/pages/pageasppage_id424728.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=422701",
+      "text": "Heart Songs",
+      "file": "html/pages/pageasppage_id422701.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414200",
+      "text": "Seen, Known, Loved",
+      "file": "html/pages/pageasppage_id414200.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414178",
+      "text": "Transforming the Morning",
+      "file": "html/pages/pageasppage_id414178.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=409922",
+      "text": "The Soul of Education",
+      "file": "html/pages/pageasppage_id409922.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=413793",
+      "text": "Experiencing Music",
+      "file": "html/pages/pageasppage_id413793.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=406335",
+      "text": "All We Ever Wanted",
+      "file": "html/pages/pageasppage_id406335.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=408272",
+      "text": "A Profoundly Human Pursuit",
+      "file": "html/pages/pageasppage_id408272.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=349553",
+      "text": "Sparking the Fire",
+      "file": "html/pages/pageasppage_id349553.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=355256",
+      "text": "Mathematical Wonder",
+      "file": "html/pages/pageasppage_id355256.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=357129",
+      "text": "Becoming Galileo",
+      "file": "html/pages/pageasppage_id357129.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=398064",
+      "text": "Transformational Analysis",
+      "file": "html/pages/pageasppage_id398064.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99271",
+      "text": "Support Covenant",
+      "file": "html/pages/pageasppage_id99271.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99271",
+      "text": "Why Covenant",
+      "file": "html/pages/pageasppage_id99271.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99273",
+      "text": "Ways to Give",
+      "file": "html/pages/pageasppage_id99273.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=99274",
+      "text": "The Covenant Annual Fund",
+      "file": "html/pages/pageasppage_id99274.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/trivianight",
+      "text": "Trivia Night Fundraiser",
+      "file": "html//trivianight.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414200",
+      "text": "Seen, Known, Loved",
+      "file": "html/pages/pageasppage_id414200.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414178",
+      "text": "Transforming the Morning",
+      "file": "html/pages/pageasppage_id414178.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=409922",
+      "text": "The Soul of Education",
+      "file": "html/pages/pageasppage_id409922.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=413793",
+      "text": "Experiencing Music",
+      "file": "html/pages/pageasppage_id413793.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=406335",
+      "text": "All We Ever Wanted",
+      "file": "html/pages/pageasppage_id406335.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=408272",
+      "text": "A Profoundly Human Pursuit",
+      "file": "html/pages/pageasppage_id408272.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/kindergartenstory",
+      "text": "Sparking the Fire",
+      "file": "html//kindergartenstory.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=355256",
+      "text": "Fostering Mathematical Wonder",
+      "file": "html/pages/pageasppage_id355256.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=357129",
+      "text": "Becoming Galileo",
+      "file": "html/pages/pageasppage_id357129.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=398064",
+      "text": "Transformational Analysis",
+      "file": "html/pages/pageasppage_id398064.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=422701",
+      "text": "Heart Songs",
+      "file": "html/pages/pageasppage_id422701.html"
+    },
+    {
+      "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=424728",
+      "text": "100 Pennies",
+      "file": "html/pages/pageasppage_id424728.html"
+    },
+    {
+      "url": "https://cov-il.client.renweb.com/pw/",
+      "text": "Login to  ParentsWeb",
+      "file": "html//pw/index.html"
+    },
+    {
+      "url": "https://online.factsmgt.com/Tmg/public/AgreementSignup.aspx?t=3H0T9&siv=y",
+      "text": "FACTS Account",
+      "file": "html/tmg/public/agreementsignupaspxt3h0t9sivy.html"
+    },
+    {
+      "url": "https://online.factsmgt.com/",
+      "text": "FACTS Acc"
+    },
+    {
+      "url": "http://www.siteorganic.com/",
+      "text": "Church Website Design by Site Organic"
+    }
+  ],
+  "styles": [
+    "http://www.covenantclassicalschool.org/soIncludes/form_styles.css",
+    "http://www.covenantclassicalschool.org/styles/style.css",
+    "http://www.covenantclassicalschool.org/webservices/skinning/skin.aspx?groupId=34371",
+    "http://www.covenantclassicalschool.org/soIncludes/styles/media-html5.css"
+  ],
+  "scripts": [
+    "http://www.covenantclassicalschool.org/soIncludes/utilities/replaceActiveX.js",
+    "http://www.covenantclassicalschool.org/soIncludes/scripts/jquery-1.11.0.min.js",
+    "http://www.covenantclassicalschool.org/soIncludes/scripts/soContentRotator.js",
+    "http://www.covenantclassicalschool.org/soIncludes/scripts/podcast.js",
+    "http://www.covenantclassicalschool.org/includes/js.js"
+  ],
+  "images": [
+    "http://www.covenantclassicalschool.org/images/css/facebook.png",
+    "http://www.covenantclassicalschool.org/images/css/youtube.png",
+    "http://www.covenantclassicalschool.org/uploads/icon-googleplus.png",
+    "http://www.covenantclassicalschool.org/uploads/MorningLaudshallway.jpg",
+    "http://www.covenantclassicalschool.org/uploads/MorningLaudsCUBE.jpg"
+  ],
+  "media": [],
+  "url": "http://www.covenantclassicalschool.org/pages/page.asp?page_id=414178"
+}
